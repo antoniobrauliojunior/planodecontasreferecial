@@ -1,0 +1,1110 @@
+﻿CVN_FILIAL;CVN_CODPLA;CVN_VERSAO;CVN_DSCPLA;CVN_DTVIGI;CVN_DTVIGF;CVN_ENTREF;CVN_LINHA;CVN_CTAREF;CVN_DSCCTA;CVN_TPUTIL;CVN_CLASSE;CVN_NATCTA;CVN_CTASUP;CVN_CTAREL;CVN_STAPLA
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1;1;ATIVO;S;1;1;;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;2;101;ATIVO CIRCULANTE;S;2;1;1;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;3;10101;DISPONIBILIDADES;S;3;1;101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;4;1010101;CAIXA GERAL;S;4;1;10101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;5;101010101;Caixa Matriz;A;5;1;1010101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;6;101010102;Caixa Filiais;A;5;1;1010101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;7;1010102;DEPÓSITOS BANCÁRIOS À VISTA;S;4;1;10101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;8;101010201;Bancos Conta Movimento - No País;A;5;1;1010102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;9;101010202;Bancos Conta Movimento - No Exterior;A;5;1;1010102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;10;1010104;NUMERÁRIOS EM TRÂNSITO;S;4;1;10101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;11;101010401;Numerários em Trânsito;A;5;1;1010104;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;12;1010105;TÍTULOS E VALORES MOBILIÁRIOS - NÃO HEDGE - NO PAÍS;S;4;1;10101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;13;101010501;Títulos para Negociação - Mensurados a Valor Justo Por Meio do Resultado (VJPR) - No País;A;5;1;1010105;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;14;101010502;Títulos Disponíveis para Venda - No País;A;5;1;1010105;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;15;101010503;Títulos Mantidos até o Vencimento - No País;A;5;1;1010105;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;16;101010510;Debêntures emitidas por Partes Relacionadas - No País;A;5;1;1010105;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;17;101010511;Debêntures Emitidas por Partes Não Relacionadas - No País;A;5;1;1010105;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;18;101010515;Outros Empréstimos e Recebíveis - No País;A;5;1;1010105;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;19;101010550;(-) Juros a Apropriar Decorrentes de Ajuste a Valor Presente (AVP) -  Valores Mobiliários - No País;A;5;1;1010105;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;20;101010555;(-) Perdas por Redução ao Valor Recuperável (Impairment)- Valores Mobiliários - No País;A;5;1;1010105;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;21;101010570;Subconta - Ajuste a Valor Justo - Valores Mobiliários – Não Hedge -No País;A;5;1;1010105;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;22;101010590;Subconta – Adoção Inicial -  Valores Mobiliários – Não Hedge - No País;A;5;1;1010105;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;23;1010106;VALORES MOBILIÁRIOS - HEDGE - NO PAÍS;S;4;1;10101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;24;101010601;Derivativos - Hedge Valor Justo - No País;A;5;1;1010106;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;25;101010602;Derivativos - Hedge Fluxo de Caixa - No País;A;5;1;1010106;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;26;101010603;Derivativos - Hedge Investimento no Exterior - No País;A;5;1;1010106;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;27;101010670;Subconta - Ajuste a Valor Justo - Valores Mobiliários – Hedge - No País;A;5;1;1010106;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;28;101010690;Subconta – Adoção Inicial -  Valores Mobiliários – Hedge - No País;A;5;1;1010106;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;29;1010109;TÍTULOS E VALORES MOBILIÁRIOS - NÃO HEDGE - NO EXTERIOR;S;4;1;10101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;30;101010901;Títulos para Negociação - Mensurados a Valor Justo por Meio de Resultado (VJPR) - No Exterior;A;5;1;1010109;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;31;101010902;Títulos Disponíveis para Venda - No Exterior;A;5;1;1010109;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;32;101010903;Títulos Mantidos até o Vencimento - No Exterior;A;5;1;1010109;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;33;101010910;Debêntures emitidas por Partes Relacionadas - No Exterior;A;5;1;1010109;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;34;101010911;Debêntures emitidas por Partes Não Relacionadas - No Exterior;A;5;1;1010109;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;35;101010915;Outros Empréstimos e Recebíveis - No Exterior;A;5;1;1010109;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;36;101010950;(-) Juros a Apropriar Decorrentes de Ajuste a Valor Presente (AVP) -  Valores Mobiliários - No Exterior;A;5;1;1010109;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;37;101010955;(-) Perdas por Redução ao Valor Recuperável (Impairment)- Valores Mobiliários - No Exterior;A;5;1;1010109;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;38;101010970;Subconta - Ajuste a Valor Justo - Não Hedge - No Exterior;A;5;1;1010109;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;39;101010990;Subconta – Adoção Inicial -  Valores Mobiliários – Não Hedge - No Exterior;A;5;1;1010109;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;40;1010110;VALORES MOBILIÁRIOS - HEDGE - NO EXTERIOR;S;4;1;10101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;41;101011001;Derivativos - Hedge Valor Justo - No Exterior;A;5;1;1010110;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;42;101011002;Derivativos - Hedge Fluxo de Caixa - No Exterior;A;5;1;1010110;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;43;101011003;Derivativos - Hedge Investimento no Exterior - No Exterior;A;5;1;1010110;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;44;101011070;Subconta - Ajuste a Valor Justo - Valores Mobiliários – Hedge - No Exterior;A;5;1;1010110;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;45;101011090;Subconta – Adoção Inicial -  Valores Mobiliários – Hedge - No Exterior;A;5;1;1010110;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;46;1010140;RECURSOS NO EXTERIOR DECORRENTES DE EXPORTAÇÃO;S;4;1;10101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;47;101014001;Recursos no Exterior Decorrentes de Exportação;A;5;1;1010140;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;48;1010199;OUTRAS DISPONIBILIDADES;S;4;1;10101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;49;101019901;Outras Disponibilidades;A;5;1;1010199;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;50;10102;CRÉDITOS;S;3;1;101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;51;1010201;ADIANTAMENTOS;S;4;1;10102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;52;101020101;Adiantamentos a Fornecedores - no País – Circulante;A;5;1;1010201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;53;101020102;Adiantamentos a Fornecedores - no Exterior – Circulante;A;5;1;1010201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;54;101020103;Adiantamentos a Funcionários – Circulante;A;5;1;1010201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;55;101020104;Adiantamentos a Terceiros – Circulante;A;5;1;1010201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;56;101020198;Outros Adiantamentos – Circulante;A;5;1;1010201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;57;1010202;DUPLICATAS A RECEBER;S;4;1;10102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;58;101020201;Duplicatas a Receber – Operações com Partes Não Relacionadas - no País;A;5;1;1010202;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;59;101020202;Duplicatas a Receber - Operações com Partes Não Relacionadas - no Exterior;A;5;1;1010202;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;60;101020203;Duplicatas a Receber - Operações com Partes Relacionadas - no País;A;5;1;1010202;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;61;101020204;Duplicatas a Receber - Operações com Partes Relacionadas - no Exterior;A;5;1;1010202;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;62;101020250;(-) Juros a Apropriar Decorrentes de Ajuste da Valor Presente (AVP) – Duplicatas a Receber ;A;5;1;1010202;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;63;101020252;(-) Perdas Estimadas em Créditos de Liquidação Duvidosa - Duplicatas a Receber ;A;5;1;1010202;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;64;101020255;(-) Perdas por Redução ao Valor Recuperável (Impairment) - Duplicatas a Receber ;A;5;1;1010202;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;65;101020290;Subconta – Adoção Inicial -  Duplicatas a Receber;A;5;1;1010202;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;66;1010203;TRIBUTOS A RECUPERAR;S;4;1;10102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;67;101020301;IPI a Recuperar;A;5;1;1010203;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;68;101020302;ICMS a Recuperar;A;5;1;1010203;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;69;101020303;PIS a Recuperar - Crédito Básico;A;5;1;1010203;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;70;101020304;PIS a Recuperar - Crédito Presumido;A;5;1;1010203;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;71;101020305;COFINS a Recuperar - Crédito Básico;A;5;1;1010203;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;72;101020306;COFINS a Recuperar - Crédito Presumido;A;5;1;1010203;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;73;101020307;CIDE a Recuperar;A;5;1;1010203;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;74;101020340;Outros Impostos e Contribuições a Recuperar;A;5;1;1010203;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;75;101020350;(-) Juros a Apropriar Decorrentes de Ajuste a Valor Presente (AVP) -  Tributos a Recuperar;A;5;1;1010203;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;76;101020355;(-) Perdas por Redução ao Valor Recuperável (Impairment) -  Tributos a Recuperar;A;5;1;1010203;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;77;1010204;TRIBUTOS A COMPENSAR;S;4;1;10102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;78;101020401;Imposto de Renda Retido na Fonte (IRRF);A;5;1;1010204;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;79;101020402;IRPJ Recolhido por Estimativa;A;5;1;1010204;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;80;101020403;IRPJ Saldo Negativo;A;5;1;1010204;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;81;101020404;CSLL Retida na Fonte;A;5;1;1010204;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;82;101020405;CSLL Recolhida por Estimativa;A;5;1;1010204;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;83;101020406;CSLL Saldo Negativo;A;5;1;1010204;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;84;101020407;PIS/PASEP Retido na Fonte;A;5;1;1010204;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;85;101020408;PIS/PASEP a Compensar;A;5;1;1010204;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;86;101020409;COFINS Retida na Fonte;A;5;1;1010204;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;87;101020410;COFINS a Compensar;A;5;1;1010204;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;88;101020411;IPI a Compensar;A;5;1;1010204;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;89;101020412;IOF a Compensar;A;5;1;1010204;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;90;101020413;Imposto de Importação a Compensar;A;5;1;1010204;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;91;101020414;Imposto de Exportação a Compensar;A;5;1;1010204;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;92;101020415;ITR a Compensar;A;5;1;1010204;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;93;101020416;CIDE a Compensar;A;5;1;1010204;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;94;101020417;Contribuição Previdenciária Retida na Prestação de Serviços;A;5;1;1010204;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;95;101020418;Contribuição Previdenciária a Compensar;A;5;1;1010204;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;96;101020440;Outros Tributos a Compensar;A;5;1;1010204;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;97;101020450;( - ) Juros a Apropriar Decorrentes de Ajuste a Valor Presente (AVP) -  Tributos a Compensar;A;5;1;1010204;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;98;101020455;( - ) Perdas  por Redução ao Valor Recuperável (Impairment)- Tributos a Compensar;A;5;1;1010204;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;99;1010209;OUTROS CRÉDITOS – CIRCULANTE;S;4;1;10102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;100;101020901;Mútuos com Partes Não Relacionadas – Circulante - No País;A;5;1;1010209;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;101;101020902;Mútuos com Partes Não Relacionadas – Circulante - No Exterior;A;5;1;1010209;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;102;101020903;Dividendos a Receber - Circulante - No País;A;5;1;1010209;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;103;101020904;Dividendos a Receber - Circulante - No Exterior;A;5;1;1010209;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;104;101020905;Juros Sobre o Capital Próprio a Receber  - Circulante;A;5;1;1010209;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;105;101020906;Adiantamento para Futuro Aumento de Capital –Ativo - Circulante;A;5;1;1010209;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;106;101020907; Outros Juros a Receber - Circulante;A;5;1;1010209;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;107;101020909;Contraprestação Contingente Ativa - Combinação de Negócios - Circulante;A;5;1;1010209;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;108;101020910;Demais Créditos a Receber - Circulante;A;5;1;1010209;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;109;101020911;Depósitos em Contencioso - Circulante;A;5;1;1010209;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;110;101020912;Outros Créditos em Contencioso - Circulante;A;5;1;1010209;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;111;101020920;Direitos Creditórios Cedidos;A;5;1;1010209;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;112;101020921;(-) Deságio na Cessão de Títulos;A;5;1;1010209;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;113;101020925;Direitos Creditórios a Receber;A;5;1;1010209;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;114;101020950;(-) Juros a Apropriar Decorrentes de Ajuste a Valor Presente (AVP) – Outros Créditos - Circulante;A;5;1;1010209;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;115;101020955;(-) Perdas por Redução ao Valor Recuperável (Impairment) - Outros Créditos - Circulante;A;5;1;1010209;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;116;101020960;CPC 47 - Atvos de Contrato - Circulante ;A;5;1;1010209;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;117;101020970;Subconta - Ajuste a Valor Justo – Outros Créditos - Circulante;A;5;1;1010209;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;118;10103;ESTOQUES;S;3;1;101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;119;1010301;ESTOQUES DE MERCADORIAS;S;4;1;10103;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;120;101030101;Mercadorias para Revenda;A;5;1;1010301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;121;101030155;(-) Perda por Ajuste ao Valor Realizável Líquido - Estoque Mercadorias;A;5;1;1010301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;122;101030170;Subconta - Ajuste a Valor Justo - Estoque Mercadorias;A;5;1;1010301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;123;101030175;( - ) Subconta – Ajuste a Valor Presente (AVP) -  Estoque Mercadorias;A;5;1;1010301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;124;101030190;Subconta – Adoção Inicial -  Estoques de Mercadorias ;A;5;1;1010301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;125;1010302;ESTOQUES DE PRODUTOS;S;4;1;10103;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;126;101030201;Insumos (materiais diretos);A;5;1;1010302;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;127;101030202;Outros Materiais;A;5;1;1010302;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;128;101030203;Produtos em Elaboração;A;5;1;1010302;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;129;101030204;Produtos Acabados;A;5;1;1010302;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;130;101030255;(-) Perda por Ajuste ao Valor Realizável Líquido - Estoque Produtos;A;5;1;1010302;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;131;101030270;Subconta - Ajuste a Valor Justo - Estoque de Produtos;A;5;1;1010302;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;132;101030275;( - ) Subconta – Ajuste a Valor Presente (AVP) -  Estoque de Produtos;A;5;1;1010302;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;133;101030290;Subconta – Adoção Inicial -  Estoques  de Produtos;A;5;1;1010302;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;134;1010303;ESTOQUES - ATIVIDADE IMOBILIÁRIA;S;4;1;10103;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;135;101030301;Terrenos - Atividade Imobiliária;A;5;1;1010303;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;136;101030302;Imóveis Adquiridos para Revenda - Atividade Imobiliária;A;5;1;1010303;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;137;101030303;Obras em Andamento - Atividade Imobiliária;A;5;1;1010303;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;138;101030304;Imóveis à Venda - Atividade Imobiliária;A;5;1;1010303;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;139;101030305;Construções em Andamento de Imóveis Destinados à Venda;A;5;1;1010303;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;140;101030306;Materiais de Construção - Atividade Imobiliária;A;5;1;1010303;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;141;101030355;(-) Perda por Ajuste ao Valor Realizável Líquido - Estoque Atividade Imobiliária;A;5;1;1010303;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;142;101030375;( - ) Subconta – Ajuste a Valor Presente (AVP) -  Estoque Atividade Imobiliária;A;5;1;1010303;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;143;101030390;Subconta – Adoção Inicial -  Estoques – Atividade Imobiliária;A;5;1;1010303;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;144;1010304;ESTOQUES - LONGA MATURAÇÃO;S;4;1;10103;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;145;101030401;Insumos (materiais diretos) - Estoque Longa Maturação;A;5;1;1010304;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;146;101030402;Outros Materiais - Estoque Longa Maturação;A;5;1;1010304;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;147;101030403;Produtos em Elaboração - Estoque Longa Maturação;A;5;1;1010304;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;148;101030404;Produtos Acabados - Estoque Longa Maturação;A;5;1;1010304;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;149;101030455;(-) Perda por Ajuste ao Valor Realizável Líquido - Estoque Longa Maturação;A;5;1;1010304;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;150;101030470;Subconta - Ajuste a Valor Justo - Estoque Longa Maturação;A;5;1;1010304;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;151;101030475;( - ) Subconta – Ajuste a Valor Presente (AVP) -  Estoque Longa Maturação;A;5;1;1010304;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;152;101030490;Subconta – Adoção Inicial -  Estoques – Longa Maturação;A;5;1;1010304;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;153;1010305;ESTOQUES - ATIVIDADE RURAL;S;4;1;10103;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;154;101030501;Produtos Agropecuários de Origem Animal;A;5;1;1010305;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;155;101030502;Produtos Agropecuários de Origem Vegetal;A;5;1;1010305;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;156;101030503;Insumos Agropecuários;A;5;1;1010305;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;157;101030504;Outros Materiais - Atividade Rural;A;5;1;1010305;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;158;101030555;(-) Perda por Ajuste ao Valor Realizável Líquido - Estoque Atividade Rural;A;5;1;1010305;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;159;101030570;Subconta - Ajuste a Valor Justo - Estoque Atividade Rural;A;5;1;1010305;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;160;101030575;( - ) Subconta – Ajuste a Valor Presente (AVP) -  Estoque Atividade Rural;A;5;1;1010305;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;161;101030590;Subconta – Adoção Inicial -  Estoques – Atividade Rural;A;5;1;1010305;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;162;1010306;ESTOQUES SERVIÇOS;S;4;1;10103;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;163;101030601;Materiais Aplicados na Produção de Serviços;A;5;1;1010306;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;164;101030602;Serviços em Andamento;A;5;1;1010306;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;165;101030603;Serviços Acabados;A;5;1;1010306;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;166;101030655;(-) Perda por Ajuste ao Valor Realizável Líquido - Estoque Serviços;A;5;1;1010306;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;167;101030670;Subconta - Ajuste a Valor Justo - Estoque Serviços;A;5;1;1010306;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;168;101030675;( - ) Subconta – Ajuste a Valor Presente (AVP) -  Estoque Serviços;A;5;1;1010306;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;169;101030690;Subconta – Adoção Inicial -  Estoque Serviços;A;5;1;1010306;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;170;1010307;ESTOQUES (OUTROS);S;4;1;10103;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;171;101030701;Material em Almoxarifado;A;5;1;1010307;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;172;101030702;Material Destinado à Destruição;A;5;1;1010307;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;173;101030703;Sucata;A;5;1;1010307;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;174;101030704;Outros Estoques;A;5;1;1010307;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;175;101030755;(-) Perda por Ajuste ao Valor Realizável Líquido - Estoques Outros;A;5;1;1010307;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;176;101030775;( - ) Subconta – Ajuste a Valor Presente (AVP) -  Estoque Outros;A;5;1;1010307;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;177;101030790;Subconta – Adoção Inicial -  Estoque Outros;A;5;1;1010307;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;178;10105;DESPESAS DO EXERCÍCIO SEGUINTE;S;3;1;101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;179;1010501;DESPESAS DO EXERCÍCIO SEGUINTE;S;4;1;10105;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;180;101050101;Alugueis Pagos Antecipadamente;A;5;1;1010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;181;101050102;Prêmios de Seguros a Apropriar;A;5;1;1010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;182;101050103;Encargos Financeiros a Apropriar;A;5;1;1010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;183;101050109;Outros Custos e Despesas Pagos Antecipadamente;A;5;1;1010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;184;10110;ATIVO BIOLÓGICO - CIRCULANTE;S;3;1;101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;185;1011001;ATIVO BIOLÓGICO AVALIADO PELO VALOR JUSTO – CIRCULANTE;S;4;1;10110;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;186;101100101;Ativo Biológico Consumível - Origem Animal – Pelo Valor Justo;A;5;1;1011001;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;187;101100102;Ativo Biológico Consumível - Origem Vegetal – Pelo Valor Justo;A;5;1;1011001;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;188;101100170;Subconta - Ajuste a Valor Justo (AVJ) – Ativos Biológicos Consumíveis Pelo Valor Justo - Circulante;A;5;1;1011001;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;189;101100175;( - ) Subconta – Ajuste a Valor Presente (AVP) -  Ativos Biológicos Pelo Valor Justo - Circulante;A;5;1;1011001;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;190;101100190;Subconta – Adoção Inicial -  Ativo Biologico;A;5;1;1011001;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;191;1011002;ATIVO BIOLÓGICO AVALIADO PELO CUSTO - CIRCULANTE;S;4;1;10110;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;192;101100201;Ativo Biológico Consumível - Origem Animal - Pelo Custo;A;5;1;10110;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;193;101100202;Ativo Biológico Consumível - Origem Vegetal - Pelo Custo;A;5;1;1011002;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;194;101100255;( - ) Perdas  por Redução ao Valor Recuperável (Impairment) -  Ativos Biológicos Consumível - Pelo Custo;A;5;1;1011002;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;195;101100275;( - ) Subconta – Ajuste a Valor Presente (AVP) -  Ativos Biológicos Consumíveis - Pelo Custo ;A;5;1;1011002;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;196;10111;ATIVO NÃO CIRCULANTE MANTIDO PARA VENDA;S;3;1;101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;197;1011101;ATIVO NÃO CIRCULANTE MANTIDO PARA VENDA;S;4;1;10111;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;198;101110101;Ativo Não Circulante Mantido Para Venda;A;5;1;1011101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;199;101110155;(-) Perdas por Redução ao Valor Recuperável (Impairment) - Ativo Não Circulante Mantido para Venda;A;5;1;1011101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;200;101110170;Subconta - Ajuste a Valor Justo – Ativo Não Circulante Mantido para Venda;A;5;1;1011101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;201;101110175;( - ) Subconta – Ajuste a Valor Presente (AVP) -  Ativo Não Circulante Mantido para Venda;A;5;1;1011101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;202;101110190;Subconta – Adoção Inicial -  Ativo Não circulante Mantido para Venda;A;5;1;1011101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;203;102;ATIVO NÃO CIRCULANTE;S;2;1;1;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;204;10201;REALIZÁVEL A LONGO PRAZO;S;3;1;102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;205;1020101;CRÉDITOS E VALORES - LONGO PRAZO;S;4;1;10201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;206;102010101;Clientes - Longo Prazo;A;5;1;1020101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;207;102010102;Mútuos com Partes Não Relacionadas  - Ativo- Longo Prazo;A;5;1;1020101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;208;102010103;Mútuos com Partes Relacionadas - Ativo - Longo Prazo;A;5;1;1020101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;209;102010104;Adiantamento para Futuro Aumento de Capital - Ativo - Longo Prazo;A;5;1;1020101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;210;102010107;Títulos Patrimoniais Avaliados pelo Custo - Longo Prazo;A;5;1;1020101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;211;102010109;Contraprestação Contingente Ativa - Combinação de Negócios – Longo Prazo;A;5;1;1020101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;212;102010110;Outros Valores Mobiliários - No Exterior - Longo Prazo;A;5;1;1020101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;213;102010119;(-) Outras Contas Retificadoras – Créditos e Valores - Longo Prazo;A;5;1;1020101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;214;102010120;Direitos Creditórios Cedidos –Longo Prazo;A;5;1;1020101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;215;102010121;(-) Deságio na Cessão de Títulos–Longo Prazo;A;5;1;1020101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;216;102010125;Direitos Creditórios a Receber–Longo Prazo;A;5;1;1020101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;217;102010126;Duplicatas a Receber – Operações com Partes Não Relacionadas - no País – Longo Prazo;A;5;1;1020101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;218;102010127;Duplicatas a Receber - Operações com Partes Não Relacionadas - no Exterior – Longo Prazo;A;5;1;1020101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;219;102010128;Duplicatas a Receber - Operações com Partes Relacionadas - no País – Longo Prazo;A;5;1;1020101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;220;102010129;Duplicatas a Receber - Operações com Partes Relacionadas - no Exterior – Longo Prazo;A;5;1;1020101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;221;102010150;(-) Juros a Apropriar Decorrentes de Ajuste a Valor Presente (AVP) -  Créditos –Longo Prazo;A;5;1;1020101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;222;102010152;(-) Perdas Estimadas em Créditos de Liquidação Duvidosa – Longo Prazo;A;5;1;1020101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;223;102010155;(-) Perdas por Redução ao Valor Recuperável (Impairment) - Créditos e Valores - Longo Prazo;A;5;1;1020101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;224;102010170;Subconta - Ajuste a Valor Justo - Créditos –Longo Prazo;A;5;1;1020101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;225;102010190;Subconta – Adoção Inicial -  Créditos e Valores – Longo Prazo;A;5;1;1020101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;226;1020102;TÍTULOS E VALORES MOBILIÁRIOS  - NO PAÍS;S;4;1;10201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;227;102010201;Títulos para Negociação - No País - Longo Prazo;A;5;1;1020102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;228;102010202;Títulos Disponíveis para Venda - No País - Longo Prazo;A;5;1;1020102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;229;102010203;Títulos Mantidos até o Vencimento - No País - Longo Prazo;A;5;1;1020102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;230;102010210;Debêntures emitidas por Partes Relacionada - No País - Longo Prazo;A;5;1;1020102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;231;102010211;Debêntures emitidas por Partes Não Relacionada - No País - Longo Prazo;A;5;1;1020102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;232;102010214;Outros Valores Mobiliários – No País - Longo Prazo;A;5;1;1020102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;233;102010215;Outros Empréstimos e Recebíveis – No País - Longo Prazo;A;5;1;1020102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;234;102010216;Outros Juros a Receber – No País - Longo Prazo;A;5;1;1020102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;235;102010250;(-) Juros a Apropriar Decorrentes de Ajuste a Valor Presente (AVP) Valores Mobiliários – No País - Longo Prazo;A;5;1;1020102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;236;102010255;(-) Perdas por Redução ao Valor Recuperável (Impairment) - Valores Mobiliários - No País - Longo Prazo;A;5;1;1020102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;237;102010270;Subconta - Ajuste a Valor Justo – Valores Mobiliários – No País - Longo Prazo;A;5;1;1020102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;238;102010290;Subconta – Adoção Inicial - Valores Mobiliários -  No País – Longo Prazo;A;5;1;1020102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;239;1020103;TÍTULOS E VALORES MOBILIÁRIOS  - NO EXTERIOR;S;4;1;10201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;240;102010301;Títulos para Negociação - No Exterior - Longo Prazo;A;5;1;1020103;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;241;102010302;Títulos Disponíveis para Venda - No Exterior - Longo Prazo;A;5;1;1020103;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;242;102010303;Títulos Mantidos até o Vencimento - No Exterior - Longo Prazo;A;5;1;1020103;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;243;102010304;Debêntures emitidas por Partes Relacionada – No Exterior - Longo Prazo;A;5;1;1020103;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;244;102010305;Debêntures emitidas por Partes Não Relacionada - No Exterior - Longo Prazo;A;5;1;1020103;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;245;102010306;Outros Empréstimos e Recebíveis – No Exterior - Longo Prazo;A;5;1;1020103;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;246;102010350;(-) Juros a Apropriar Decorrentes de Ajuste a Valor Presente (AVP) Valores Mobiliários – No Exterior - Longo Prazo;A;5;1;1020103;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;247;102010355;(-) Perdas por Redução ao Valor Recuperável (Impairment) - Valores Mobiliário - No Exterior - Longo Prazo;A;5;1;1020103;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;248;102010370;Subconta - Ajuste a Valor Justo – Valores Mobiliários – No Exterior - Longo Prazo;A;5;1;1020103;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;249;102010390;Subconta – Adoção Inicial - Valores Mobiliários -  No Exterior – Longo Prazo;A;5;1;1020103;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;250;1020105;ATIVOS FISCAIS DIFERIDOS - LONGO PRAZO;S;4;1;10201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;251;102010501;Créditos Fiscais CSLL - Diferenças Temporárias e Base de Cálculo Negativa - Longo Prazo;A;5;1;1020105;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;252;102010502;Créditos Fiscais IRPJ - Diferenças Temporárias e Prejuízos Fiscais - Longo Prazo;A;5;1;1020105;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;253;1020107;CRÉDITOS EM CONTENCIOSO - LONGO PRAZO;S;4;1;10201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;254;102010701;Depósitos em Contencioso - Longo Prazo;A;5;1;1020107;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;255;102010710;Outros Créditos em Contencioso - Longo Prazo;A;5;1;1020107;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;256;102010755;( - ) Perdas  por Redução ao Valor Recuperável (Impairment) -  Créditos em Contencioso – Longo Prazo;A;5;1;1020107;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;257;1020108;TRIBUTOS A RECUPERAR – LONGO PRAZO;S;4;1;10201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;258;102010801;IPI a Recuperar - Longo Prazo;A;5;1;1020108;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;259;102010802;ICMS a Recuperar - Longo Prazo;A;5;1;1020108;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;260;102010803;PIS  a Recuperar - Crédito Básico - Longo Prazo;A;5;1;1020108;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;261;102010804;PIS  a Recuperar - Crédito Presumido - Longo Prazo;A;5;1;1020108;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;262;102010805;COFINS  a Recuperar - Crédito Básico - Longo Prazo;A;5;1;1020108;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;263;102010806;COFINS  a Recuperar - Crédito Presumido - Longo Prazo;A;5;1;1020108;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;264;102010807;CIDE a Recuperar - Longo Prazo;A;5;1;1020108;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;265;102010840;Outros Impostos e Contribuições a Recuperar - Longo Prazo;A;5;1;1020108;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;266;102010850;(-) Juros a Apropriar Decorrentes de Ajuste a Valor Presente (AVP) -  Tributos a Recuperar - Longo Prazo;A;5;1;1020108;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;267;102010855;(-) Perdas  por Redução ao Valor Recuperável (Impairment) -  Tributos a Recuperar - Longo Prazo;A;5;1;1020108;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;268;1020109;DESPESAS PAGAS ANTECIPADAMENTE - LONGO PRAZO;S;4;1;10201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;269;102010901;Alugueis pagos Antecipadamente - Longo Prazo;A;5;1;1020109;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;270;102010902;Prêmios de Seguros a Apropriar - Longo Prazo;A;5;1;1020109;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;271;102010903;Encargos Financeiros a Apropriar –Longo Prazo;A;5;1;1020109;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;272;102010909;Outros Custos e Despesas Pagos Antecipadamente - Longo Prazo;A;5;1;1020109;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;273;1020110;ATIVO BIOLÓGICO - LONGO PRAZO;S;4;1;10201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;274;102011001;Ativo Biológico Consumível - Origem Animal – Pelo Valor Justo - Longo Prazo;A;5;1;1020110;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;275;102011002;Ativo Biológico Consumível - Origem Vegetal – Pelo Valor Justo - Longo Prazo;A;5;1;1020110;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;276;102011010;Ativo Biológico Consumível - Origem Animal - Pelo Custo - Longo Prazo;A;5;1;1020110;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;277;102011011;Ativo Biológico Consumível - Origem Vegetal - Pelo Custo - Longo Prazo;A;5;1;1020110;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;278;102011055;( - ) Perdas  por Redução ao Valor Recuperável (Impairment) -  Ativos Biológicos Consumível – Longo Prazo;A;5;1;1020110;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;279;102011070;Subconta - Ajuste a Valor Justo (AVJ) – Ativos Biológicos - Longo Prazo;A;5;1;1020110;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;280;102011075;Subconta – Ajuste a Valor Presente (AVP) -  Ativos Biológicos  - Longo Prazo;A;5;1;1020110;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;281;102011090;Subconta – Adoção Inicial – Ativo Biológico – Longo Prazo;A;5;1;1020110;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;282;1020115;OUTROS CRÉDITOS – LONGO PRAZO;S;4;1;10201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;283;102011501;Outros Créditos - Longo Prazo;A;5;1;1020115;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;284;102011560;CPC 47 - Atvos de Contrato - Longo Prazo ;A;5;1;1020115;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;285;10202;INVESTIMENTOS;S;3;1;102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;286;1020201;PARTICIPAÇÕES PERMANENTES EM SOCIEDADES - NO PAÍS;S;4;1;10202;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;287;102020101;Participações Permanentes em Controladas - no País ;A;5;1;1020201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;288;102020104;Participações Permanentes em Coligadas -  no País ;A;5;1;1020201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;289;102020105;Participações Permanentes em Joint Ventures e Sociedades de Propósito Específico (SPE) - no País ;A;5;1;1020201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;290;102020106;Participações Permanentes em Outras Sociedades do Mesmo Grupo ou Controle Comum - Avaliadas pelo Método de Equivalência Patrimonial (MEP) - no País;A;5;1;1020201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;291;102020107;Participações em Sociedades em Conta de Participação (SCP) - Sócio Ostensivo - Avaliadas pelo Método de Equivalência Patrimonial (MEP) - no País ;A;5;1;1020201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;292;102020108;Participações em Sociedades em Conta de Participação (SCP) - Sócio Participante -  no País ;A;5;1;1020201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;293;102020110;Goodwill em Investimentos - no País;A;5;1;1020201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;294;102020111;Mais Valia em Investimentos - no País ;A;5;1;1020201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;295;102020112;(-) Menos Valia em Investimentos - no País;A;5;1;1020201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;296;102020120;Ágios em Investimentos Gerados até 31/12/2009 - no País;A;5;1;1020201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;297;102020121;(-) Deságios em Investimentos Gerados até 31/12/2009 - no País;A;5;1;1020201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;298;102020140;(-) Lucros a Apropriar em Vendas com Controladas -no País;A;5;1;1020201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;299;102020141;(-) Lucros a Apropriar em Vendas com Coligadas -no País;A;5;1;1020201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;300;102020142;(-) Lucros a Apropriar em Vendas com Joint Ventures -no País;A;5;1;1020201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;301;102020143;(-) Lucros a Apropriar em Vendas com outras sociedades - Avaliadas pelo Método de Equivalência Patrimonial (MEP) - no País;A;5;1;1020201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;302;102020155;(-) Perdas por Redução ao Valor Recuperável (Impairment) de Participações Permanentes Avaliadas pelo Método de Equivalência Patrimonial - no País;A;5;1;1020201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;303;102020156;(-) Perdas por Redução ao Valor Recuperável (Impairment) do Goodwill em Investimentos - no País;A;5;1;1020201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;304;102020160;Subconta - Ajuste a Valor Justo (AVJ) Reflexo - Ganho ou Perda na Investida;A;5;1;1020201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;305;102020165;Subconta - Ajuste a Valor Justo (AVJ) de Subscrição de Capital - Ganho ou Perda de Capital ;A;5;1;1020201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;306;102020175;(-) Subconta - Ajuste a Valor Presente (AVP) de Participação Societária ;A;5;1;1020201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;307;102020180;Subconta - Mais Valia da Participação Anterior - Estágios ;A;5;1;1020201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;308;102020181;(-) Subconta - Menos Valia da Participação Anterior - Estágios ;A;5;1;1020201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;309;102020182;Subconta - Goodwill da Participação Anterior - Estágios ;A;5;1;1020201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;310;102020184;Subconta - Variação de Mais Valia da Participação Anterior - Estágios ;A;5;1;1020201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;311;102020185;(-) Subconta - Variação de Menos Valia da Participação Anterior - Estágios ;A;5;1;1020201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;312;102020186;Subconta - Variação de Goodwill da Participação Anterior - Estágios ;A;5;1;1020201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;313;1020202;PARTICIPAÇÕES PERMANENTES EM SOCIEDADES - NO EXTERIOR;S;4;1;10202;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;314;102020201;Participações Permanentes em Controladas -  no Exterior  ;A;5;1;1020202;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;315;102020202;Subconta - Tributação em Base Universais (TBU) - Controladas Diretas - No Exterior;A;5;1;1020202;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;316;102020203;Subconta - Tributação em Base Universais (TBU) - Controladas Indiretas - no Exterior;A;5;1;1020202;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;317;102020204;Participações Permanentes em Coligadas - Avaliadas pelo Método de Equivalência Patrimonial (MEP) - no Exterior ;A;5;1;1020202;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;318;102020205;Participações Permanentes em Joint Ventures - Avaliadas pelo Método de Equivalência Patrimonial (MEP) - no Exterior ;A;5;1;1020202;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;319;102020206;Participações Permanentes em Outras Sociedades do Mesmo Grupo ou Controle Comum - Avaliadas pelo Método de Equivalência Patrimonial (MEP) - no Exterior ;A;5;1;1020202;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;320;102020210;Goodwill em Investimentos -  no Exterior ;A;5;1;1020202;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;321;102020211;Mais Valia em Investimentos -  no Exterior ;A;5;1;1020202;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;322;102020212;(-) Menos Valia em Investimentos -  no Exterior ;A;5;1;1020202;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;323;102020220;Ágios em Investimentos Gerados até 31/12/2009 - no Exterior ;A;5;1;1020202;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;324;102020221;(-) Deságios em Investimentos Gerados até 31/12/2009 - no Exterior ;A;5;1;1020202;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;325;102020240;(-) Lucros a Apropriar em Vendas com Controladas - no Exterior ;A;5;1;1020202;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;326;102020241;(-) Lucros a Apropriar em Vendas com Coligadas - no Exterior ;A;5;1;1020202;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;327;102020242;(-) Lucros a Apropriar em Vendas com Joint Ventures - no Exterior ;A;5;1;1020202;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;328;102020243;(-) Lucros a Apropriar em Vendas com outras sociedades - Avaliadas pelo Método de Equivalência Patrimonial (MEP) - no Exterior;A;5;1;1020202;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;329;102020255;(-) Perdas por Redução ao Valor Recuperável (Impairment) em Participações Permanentes Avaliadas pelo Método de Equivalência Patrimonial (MEP) -  no Exterior ;A;5;1;1020202;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;330;102020256;(-) Perdas por Redução ao Valor Recuperável (Impairment) do Goodwill em Investimentos - no Exterior;A;5;1;1020202;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;331;102020260;Subconta - Ajuste a Valor Justo (AVJ) Reflexo - Ganho ou Perda na Investida – no Exterior;A;5;1;1020202;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;332;102020265;Subconta - Ajuste a Valor Justo (AVJ) de Subscrição de Capital - Ganho ou Perda de Capital – no Exterior;A;5;1;1020202;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;333;102020275;(-) Subconta - Ajuste a Valor Presente (AVP) de Participação Societária – no Exterior;A;5;1;1020202;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;334;102020280;Subconta - Mais Valia da Participação Anterior - Estágios – no Exterior;A;5;1;1020202;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;335;102020281;(-) Subconta - Menos Valia da Participação Anterior - Estágios – no Exterior;A;5;1;1020202;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;336;102020282;Subconta - Goodwill da Participação Anterior - Estágios – no Exterior;A;5;1;1020202;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;337;102020284;Subconta - Variação de Mais Valia da Participação Anterior - Estágios – no Exterior;A;5;1;1020202;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;338;102020285;(-) Subconta - Variação de Menos Valia da Participação Anterior - Estágios – no Exterior;A;5;1;1020202;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;339;102020286;Subconta - Variação de Goodwill da Participação Anterior - Estágios – no Exterior;A;5;1;1020202;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;340;1020203;PROPRIEDADES PARA INVESTIMENTO;S;4;1;10202;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;341;102020301;Imóveis Próprios em Construção -  Propriedades para Investimento;A;5;1;1020203;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;342;102020305;Imóveis Próprios – Pelo Custo -  Propriedades para Investimento;A;5;1;1020203;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;343;102020306;Imóveis Próprios – Valor Justo - Propriedades para Investimento;A;5;1;1020203;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;344;102020308;Imóveis Objeto de Arrendamento – Propriedades para Investimento;A;5;1;1020203;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;345;102020330;(-) Depreciação Acumuladas – Propriedades para Investimento;A;5;1;1020203;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;346;102020355;(-) Perdas por Redução ao Valor Recuperável (Impairment) - Propriedades para Investimento;A;5;1;1020203;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;347;102020370;Subconta - Ajuste a Valor Justo – Propriedades para Investimentos.;A;5;1;1020203;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;348;102020371;Subconta - Ajuste Valor Justo – Depreciação Acumulada – Propriedade para Investimento;A;5;1;1020203;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;349;102020375;( - ) Subconta – Ajuste a Valor Presente (AVP) -  Propriedades para Investimento;A;5;1;1020203;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;350;102020376;Subconta - Ajuste Valor Presente – Depreciação Acumulada - Propriedades para Investimento;A;5;1;1020203;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;351;102020390;Subconta – Adoção Inicial – Propriedades para Investimento;A;5;1;1020203;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;352;102020391;Subconta – Adoção Inicial – Depreciação Acumulada - Propriedades para Investimento;A;5;1;1020203;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;353;102020395;Subconta – Adoção Inicial  - Taxa de Depreciação Diferente -  Propriedades para Investimento;A;5;1;1020203;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;354;1020210;OUTROS INVESTIMENTOS PERMANENTES;S;4;1;10202;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;355;102021003;Investimentos Decorrentes de Incentivos Fiscais;A;5;1;1020210;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;356;102021010;Outros Investimentos Permanentes;A;5;1;1020210;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;357;102021020;(-) Outras Contas Retificadoras ­– Outros Investimentos Permanentes;A;5;1;1020210;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;358;102021050;( - ) Juros a Apropriar Decorrentes de Ajuste a Valor Presente (AVP) – Outros Investimentos Permanentes;A;5;1;1020210;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;359;102021055;(-) Perdas  por Redução ao Valor Recuperável (Impairment) -  Outros Investimentos ;A;5;1;1020210;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;360;102021070;Subconta - Ajuste a Valor Justo - Outros Investimentos Permanentes;A;5;1;1020210;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;361;102021090;Subconta – Adoção Inicial - Outros Investimentos Permanentes;A;5;1;1020210;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;362;10203;IMOBILIZADO;S;3;1;102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;363;1020301;IMOBILIZADO – AQUISIÇÃO;S;4;1;10203;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;364;102030101;Terrenos;A;5;1;1020301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;365;102030102;Edifícios e Construções;A;5;1;1020301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;366;102030103;Construções em Andamento - Imóvel Próprio;A;5;1;1020301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;367;102030104;Outras Imobilizações em Andamento;A;5;1;1020301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;368;102030105;Benfeitorias em Imóveis de Terceiros;A;5;1;1020301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;369;102030106;Máquinas, Equipamentos e Instalações Industriais;A;5;1;1020301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;370;102030107;Móveis, Utensílios e Instalações Comerciais;A;5;1;1020301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;371;102030108;Veículos;A;5;1;1020301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;372;102030109;Embarcações;A;5;1;1020301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;373;102030110;Aeronaves;A;5;1;1020301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;374;102030111;Recursos Minerais;A;5;1;1020301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;375;102030112;Dutos e Tubulações ;A;5;1;1020301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;376;102030113;Linhas de Transmissão Elétrica ;A;5;1;1020301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;377;102030114;Antenas e Torres de Transmissão ;A;5;1;1020301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;378;102030115;Máquinas Empregadas na Atividade Rural ;A;5;1;1020301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;379;102030116;Tratores e Demais Veículos Empregados na Atividade Rural ;A;5;1;1020301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;380;102030128;Outras Imobilizações por Aquisição;A;5;1;1020301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;381;102030130;(-) Depreciação Acumulada - Imobilizado;A;5;1;1020301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;382;102030131;(-) Amortização Acumulada - Imobilizado;A;5;1;1020301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;383;102030132;(-) Exaustão Acumulada - Imobilizado;A;5;1;1020301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;384;102030155;(-) Perdas por Redução ao Valor Recuperável (Impairment) - Imobilizado;A;5;1;1020301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;385;102030175;(-) Subconta - Ajuste Valor Presente – Imobilizado;A;5;1;1020301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;386;102030176;Subconta - Ajuste Valor Presente – Depreciação Acumulada - Imobilizado;A;5;1;1020301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;387;102030177;Subconta - Ajuste Valor Presente – Amortização Acumulada - Imobilizado;A;5;1;1020301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;388;102030178;Subconta - Ajuste Valor Presente – Exaustão Acumulada - Imobilizado;A;5;1;1020301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;389;102030190;Subconta – Adoção Inicial - Imobilizado;A;5;1;1020301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;390;102030191;Subconta – Adoção Inicial – Depreciação Acumulada - Imobilizado;A;5;1;1020301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;391;102030192;Subconta – Adoção Inicial – Amortização Acumulada - Imobilizado;A;5;1;1020301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;392;102030193;Subconta – Adoção Inicial – Exaustão Acumulada - Imobilizado;A;5;1;1020301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;393;102030195;Subconta – Adoção Inicial – Taxa Depreciação Diferente - Imobilizado;A;5;1;1020301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;394;102030197;Subconta - Imobilizado - Gastos da atividade de desenvolvimento da produção de campos de petróleo e gás natural já deduzidos até 01º de janeiro de 2018 ;A;5;1;1020301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;395;102030198;Subconta - Imobilizado - Gastos da atividade de desenvolvimento da produção de campos de petróleo e gás natural não deduzidos até 01º de janeiro 2018 e os posteriores a esta data;A;5;1;1020301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;396;1020302;IMOBILIZADO – BENS OBJETO DE ARRENDAMENTO;S;4;1;10203;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;397;102030201;Veículos;A;5;1;1020302;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;398;102030202;Embarcações;A;5;1;1020302;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;399;102030203;Aeronaves;A;5;1;1020302;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;400;102030204;Máquinas, Equipamentos e Instalações Industriais;A;5;1;1020302;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;401;102030205;Móveis, Utensílios e Instalações Comerciais;A;5;1;1020302;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;402;102030206;Imóveis;A;5;1;1020302;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;403;102030209;Outras Imobilizações por Arrendamento;A;5;1;1020302;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;404;102030230;(-) Depreciação Acumulada - Imobilizado - Bens objeto de arrendamento;A;5;1;1020302;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;405;102030231;(-) Amortização Acumulada - Imobilizado - Bens objeto de arrendamento;A;5;1;1020302;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;406;102030232;(-) Exaustão Acumulada - Imobilizado - Bens objeto de arrendamento;A;5;1;1020302;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;407;102030255;(-) Perdas por Redução ao Valor Recuperável (Impairment) - Imobilizado - Bens objeto de arrendamento;A;5;1;1020302;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;408;1020304;ATIVO BIOLÓGICO – DE PRODUÇÃO;S;4;1;10203;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;409;102030401;Ativo Biológico de Produção - Origem Animal – Pelo Valor Justo ;A;5;1;1020304;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;410;102030402;Ativo Biológico de Produção - Origem Vegetal – Pelo Valor Justo ;A;5;1;1020304;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;411;102030403;Ativo Biológico de Produção - Origem Animal – Pelo Custo;A;5;1;1020304;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;412;102030404;Ativo Biológico de Produção - Origem Vegetal -  Pelo Custo;A;5;1;1020304;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;413;102030430;(-) Depreciação Acumulada Ativos Biológicos de Produção;A;5;1;1020304;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;414;102030432;(-) Exaustão Acumulada Ativos Biológicos de Produção;A;5;1;1020304;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;415;102030455;(-) Perdas por Redução ao Valor Recuperável (Impairment) - Ativos Biológicos de Produção;A;5;1;1020304;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;416;102030470;Subconta - Ajuste a Valor Justo (AVJ)  –  Ativos Biológicos de Produção;A;5;1;1020304;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;417;102030475;( - ) Subconta – Ajuste a Valor Presente (AVP) -  Ativos Biológicos de Produção;A;5;1;1020304;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;418;102030476;Subconta - Ajuste Valor Presente – Depreciação Acumulada - Ativos Biológicos de Produção;A;5;1;1020304;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;419;102030478;Subconta - Ajuste Valor Presente – Exaustão Acumulada - Ativos Biológicos de Produção;A;5;1;1020304;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;420;102030490;Subconta – Adoção Inicial - Ativos Biológicos de Produção;A;5;1;1020304;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;421;102030491;Subconta – Adoção Inicial – Depreciação Acumulada – Ativo Biológico de Produção;A;5;1;1020304;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;422;102030493;Subconta – Adoção Inicial – Exaustão Acumulada – Ativo Biológico de Produção;A;5;1;1020304;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;423;102030495;Subconta – Adoção Inicial – Taxa Depreciação Diferente - Ativos Biológicos de Produção;A;5;1;1020304;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;424;1020305;OUTROS IMOBILIZADOS;S;4;1;10203;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;425;102030503;Imobilizados Recebidos em Subvenções Governamentais;A;5;1;1020305;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;426;102030504;(-) Redutoras de Imobilizados Recebidos em Subvenções Governamentais;A;5;1;1020305;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;427;102030528;Outros Imobilizados;A;5;1;1020305;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;428;102030529;(-) Outras Contas Redutoras do Imobilizado;A;5;1;1020305;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;429;102030530;(-) Outras Depreciações, Amortizações e Quotas de Exaustão Acumuladas;A;5;1;1020305;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;430;102030570;Subconta - Ajuste a Valor Justo – Outros Imobilizados;A;5;1;1020305;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;431;102030575;(-) Subconta - Ajuste Valor Presente – Imobilizado;A;5;1;1020305;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;432;102030576;Subconta - Ajuste Valor Presente – Depreciação, Amort., Exaustão Acumulada – Outros Imobilizados;A;5;1;1020305;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;433;102030590;Subconta – Adoção Inicial - Outros Imobilizados;A;5;1;1020305;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;434;102030591;Subconta – Adoção Inicial – Depreciação, Amort., Exaustão Acumulada – Outros Imobilizados;A;5;1;1020305;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;435;102030592;Subconta – Adoção Inicial – Amortização Acumulada - Intangível|;A;5;1;1020305;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;436;102030595;Subconta – Adoção Inicial – Taxa Depreciação Diferente - Outros Imobilizados;A;5;1;1020305;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;437;10205;INTANGÍVEL;S;3;1;102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;438;1020501;ATIVOS INTANGÍVEIS;S;4;1;10205;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;439;102050101;Marcas;A;5;1;1020501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;440;102050102;Patentes e Segredos Industriais;A;5;1;1020501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;441;102050103;Direitos de Exploração de Serviços Públicos;A;5;1;1020501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;442;102050104;Direitos de Exploração de Recursos Florestais;A;5;1;1020501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;443;102050105;Direitos de Exploração de Recursos Minerais;A;5;1;1020501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;444;102050106;Direitos de Exploração de Recursos Hídricos;A;5;1;1020501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;445;102050107;Direitos Autorais;A;5;1;1020501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;446;102050108;Patrimônio Cultural;A;5;1;1020501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;447;102050109;Fundo de Comércio;A;5;1;1020501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;448;102050110;Software ou Programas de Computador;A;5;1;1020501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;449;102050111;Contratos de Aluguel;A;5;1;1020501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;450;102050112;Contratos de Franquias;A;5;1;1020501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;451;102050113;Desenvolvimento de Produtos ou Serviços;A;5;1;1020501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;452;102050114;Direito Readquirido;A;5;1;1020501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;453;102050115;Leasing Operacional Contratado pela Adquirida em Condições Mais Favoráveis;A;5;1;1020501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;454;102050116;Intangíveis Não Reconhecidos na Adquirida;A;5;1;1020501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;455;102050117;Intangíveis Recebidos em Subvenções Governamentais;A;5;1;1020501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;456;102050118;(-) Redutora de Intangíveis Recebidos em Subvenções Governamentais;A;5;1;1020501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;457;102050120;(-) Amortização Acumulada - Intangível;A;5;1;1020501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;458;102050121;Goodwill – Intangível ;A;5;1;1020501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;459;102050128;Outros Intangíveis;A;5;1;1020501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;460;102050129;(-) Outras Contas Redutoras do Intangível;A;5;1;1020501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;461;102050155;(-) Perdas por Redução ao Valor Recuperável (Impairment) - Intangível;A;5;1;1020501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;462;102050156;(-) Perdas por Redução ao Valor Recuperável (Impairment) do Goodwill - Intangível;A;5;1;1020501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;463;102050175;( - ) Subconta – Ajuste a Valor Presente (AVP) -  Intangível;A;5;1;1020501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;464;102050177;Subconta - Ajuste Valor Presente – Amortização Acumulada - Intangível;A;5;1;1020501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;465;102050190;Subconta – Adoção Inicial - Intangível;A;5;1;1020501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;466;102050192;Subconta – Adoção Inicial – Amortização Acumulada - Intangível;A;5;1;1020501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;467;10206;DIFERIDO;S;3;1;102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;468;1020601;ATIVO DIFERIDO;S;4;1;10206;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;469;102060101;Despesas Pré-Operacionais ou Pré-Industriais – Ativo Diferido;A;5;1;1020601;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;470;102060102;Despesas com Pesquisas Científicas ou Tecnológicas – Ativo Diferido;A;5;1;1020601;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;471;102060103;Demais Aplicações em Despesas Amortizáveis – Ativo Diferido;A;5;1;1020601;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;472;102060131;(-) Amortização Acumulada - Ativo Diferido;A;5;1;1020601;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;473;102060156;(-) Perdas por Redução ao Valor Recuperável (Impairment) -  Ativo Diferido;A;5;1;1020601;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;474;102060190;Subconta – Adoção Inicial – Ativo Diferido;A;5;1;1020601;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;475;2;PASSIVO;S;1;2;;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;476;201;PASSIVO CIRCULANTE;S;2;2;2;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;477;20101;OBRIGAÇÕES DO CIRCULANTE;S;3;2;201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;478;2010101;BENEFÍCIOS E ENCARGOS SOCIAIS - CIRCULANTE;S;4;2;20101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;479;201010101;Salários e Remunerações a Pagar;A;5;2;2010101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;480;201010102;Participações no Resultado a Pagar;A;5;2;2010101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;481;201010103;INSS a Recolher;A;5;2;2010101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;482;201010104;FGTS a Recolher;A;5;2;2010101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;483;201010105;Benefícios Não Monetários;A;5;2;2010101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;484;201010150;Benefícios Pós-Emprego;A;5;2;2010101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;485;201010155;Outros Benefícios de Longo Prazo;A;5;2;2010101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;486;201010160;Benefícios Rescisórios;A;5;2;2010101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;487;201010109;Demais Encargos a Recolher;A;5;2;2010101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;488;2010103;FORNECEDORES – CIRCULANTE;S;4;2;20101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;489;201010301;Fornecedores - Operações com Partes Não Relacionadas - No País – Circulante;A;5;2;2010103;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;490;201010302;Fornecedores - Operações com Partes Não Relacionadas - No Exterior – Circulante;A;5;2;2010103;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;491;201010303;Fornecedores - Operações com Partes  Relacionadas - No País – Circulante;A;5;2;2010103;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;492;201010304;Fornecedores - Operações com Partes Relacionadas - No Exterior – Circulante;A;5;2;2010103;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;493;201010350;(-) Juros a Apropriar Decorrentes de Ajuste a Valor Presente (AVP) - Fornecedores Circulante;A;5;2;2010103;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;494;201010390;Subconta – Adoção Inicial -  Fornecedores - Circulante;A;5;2;2010103;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;495;2010105;CONTAS A PAGAR – CIRCULANTE;S;4;2;20101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;496;201010501;Adiantamentos de Clientes - no País;A;5;2;2010105;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;497;201010502;Adiantamentos de Clientes - no Exterior;A;5;2;2010105;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;498;201010550;(-) Juros a Apropriar Decorrentes de Ajuste a Valor Presente (AVP) -  Contas a Pagar - Circulante;A;5;2;2010105;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;499;201010590;Subconta – Adoção Inicial -  Contas a Pagar - Circulante;A;5;2;2010105;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;500;2010107;EMPRÉSTIMOS OU FINANCIAMENTOS – CIRCULANTE;S;4;2;20101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;501;201010701;Duplicatas Descontadas – Circulante;A;5;2;2010107;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;502;201010702;Empréstimos ou Financiamentos - no País - Circulante;A;5;2;2010107;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;503;201010703;Empréstimos ou Financiamentos - no Exterior – Circulante;A;5;2;2010107;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;504;201010704;Adiantamentos de Contrato de Câmbio – Circulante;A;5;2;2010107;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;505;201010705;Arrendamento - no País – Circulante;A;5;2;2010107;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;506;201010706;Arrendamento - no Exterior - Circulante;A;5;2;2010107;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;507;201010750;(-) Juros a Apropriar Decorrentes de Ajuste a Valor Presente (AVP) -  Empréstimos e Financiamentos - Circulante;A;5;2;2010107;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;508;201010790;Subconta – Adoção Inicial -  Empréstimos e Financiamentos - Circulante;A;5;2;2010107;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;509;2010109;OBRIGAÇÕES FISCAIS – CIRCULANTE;S;4;2;20101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;510;201010901;IRRF a Recolher – Circulante;A;5;2;2010109;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;511;201010902;IPI a Recolher – Circulante;A;5;2;2010109;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;512;201010903;ICMS a Recolher – Circulante;A;5;2;2010109;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;513;201010904;PIS a Recolher – Circulante;A;5;2;2010109;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;514;201010905;COFINS a Recolher – Circulante;A;5;2;2010109;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;515;201010906;IOF a Recolher – Circulante;A;5;2;2010109;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;516;201010907;CIDE a Recolher – Circulante;A;5;2;2010109;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;517;201010908;Tributos Municipais a Recolher – Circulante;A;5;2;2010109;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;518;201010909;Parcelamentos Especiais a Recolher - Tributos Federais – Circulante;A;5;2;2010109;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;519;201010910;Parcelamentos Especiais a Recolher - Tributos Estaduais e Municipais – Circulante;A;5;2;2010109;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;520;201010911;Contribuições Previdenciárias a Recolher – Desoneração da Folha de Pagamento  – Circulante;A;5;2;2010109;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;521;201010912;Tributos Retidos a Recolher  – Circulante;A;5;2;2010109;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;522;201010913;IRPJ a Recolher  – Circulante;A;5;2;2010109;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;523;201010914;CSLL a Recolher  – Circulante;A;5;2;2010109;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;524;201010928;Outros Tributos a Recolher – Circulante;A;5;2;2010109;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;525;2010111;VALORES MOBILIÁRIOS  – HEDGE – NO PAÍS;S;4;2;20101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;526;201011101;Derivativos - Hedge Valor Justo - No País;A;5;2;2010111;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;527;201011102;Derivativos - Hedge Fluxo de Caixa - No País;A;5;2;2010111;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;528;201011103;Derivativos - Hedge  Investimento no Exterior - No País;A;5;2;2010111;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;529;201011170;Subconta - Ajuste a Valor Justo - Valores Mobiliários – Hedge - No País;A;5;2;2010111;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;530;201011190;Subconta – Adoção Inicial -  Valores Mobiliários – Hedge - No País;A;5;2;2010111;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;531;2010112;VALORES MOBILIÁRIOS  - HEDGE - NO EXTERIOR;S;4;2;20101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;532;201011201;Derivativos - Hedge Valor Justo - No Exterior;A;5;2;2010112;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;533;201011202;Derivativos - Hedge Fluxo de Caixa - No Exterior;A;5;2;2010112;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;534;201011203;Derivativos - Hedge  Investimento no Exterior - No Exterior;A;5;2;2010112;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;535;201011270;Subconta - Ajuste a Valor Justo - Valores Mobiliários – Hedge - No Exterior;A;5;2;2010112;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;536;201011290;Subconta – Adoção Inicial -  Valores Mobiliários – Hedge - No Exterior;A;5;2;2010112;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;537;2010113;TÍTULOS DE DÍVIDA – CIRCULANTE;S;4;2;20101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;538;201011301;Debêntures a Pagar – Circulante;A;5;2;2010113;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;539;201011302;Prêmio na Emissão de Debêntures – Circulante;A;5;2;2010113;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;540;201011304;Notas Promissórias a Pagar;A;5;2;2010113;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;541;201011305;Bonds a Pagar;A;5;2;2010113;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;542;201011306;Certificados de Recebíveis Imobiliários - CRI;A;5;2;2010113;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;543;201011307;Certificados de Recebíveis do Agronegócio - CRA;A;5;2;2010113;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;544;201011325;Outros Títulos de Dívida a Pagar – Pelo Custo Amortizado - Circulante;A;5;2;2010113;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;545;201011327;(-) Custos a Amortizar – Títulos de Dívida - Circulante;A;5;2;2010113;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;546;201011328;Outros Títulos de Dívida a Pagar – Pelo Pelo Valor Justo(VJPR) - Circulante;A;5;2;2010113;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;547;201011329;(-) Deságio a Apropriar – Títulos de Dívida - Circulante;A;5;2;2010113;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;548;201011350;(-) Juros a Apropriar Decorrentes de Ajuste a Valor Presente (AVP) -  Títulos de Dívida - Circulante;A;5;2;2010113;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;549;201011370;Subconta - Ajuste a Valor Justo – Títulos de Dívida a Pagar - Circulante;A;5;2;2010113;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;550;201011390;Subconta – Adoção Inicial -  Títulos de Dívida - Circulante;A;5;2;2010113;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;551;2010115;PROVISÕES – CIRCULANTE;S;4;2;20101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;552;201011501;Provisão para o Imposto de Renda;A;5;2;2010115;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;553;201011502;Provisão para a Contribuição Social sobre o Lucro Líquido;A;5;2;2010115;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;554;201011503;Férias a Pagar;A;5;2;2010115;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;555;201011504;13º Salário a Pagar;A;5;2;2010115;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;556;201011505;Provisões de Natureza Trabalhista - Circulante;A;5;2;2010115;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;557;201011506;Provisões de Natureza Tributária – Circulante;A;5;2;2010115;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;558;201011507;Provisões de Natureza Cível – Circulante;A;5;2;2010115;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;559;201011528;Outras Provisões;A;5;2;2010115;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;560;201011550;(-) Juros a Apropriar Decorrentes de Ajuste a Valor Presente (AVP) -  Provisões - Circulante;A;5;2;2010115;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;561;2010117;OUTRAS OBRIGAÇÕES - CIRCULANTE;S;4;2;20101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;562;201011701;Mútuos – Partes Não Relacionadas – No País - Ciculante;A;5;2;2010117;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;563;201011702;Mútuos - Partes Não Relacionadas – No Exterior - Ciculante;A;5;2;2010117;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;564;201011703;Mútuos – Partes Relacionadas – No País – Circulante;A;5;2;2010117;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;565;201011704;Mútuos - Partes Relacionadas – No Exterior - Circulante;A;5;2;2010117;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;566;201011709;Contraprestação Contingente Passiva - Combinação de Negócios - Circulante;A;5;2;2010117;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;567;201011710;Passivo Contingente Assumido em Combinação de Negócios - Circulante;A;5;2;2010117;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;568;201011711;Faturamento para Entrega Futura - Circulante;A;5;2;2010117;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;569;201011712;Juros sobre o Capital Próprio a Pagar - Circulante;A;5;2;2010117;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;570;201011713;Dividendos a Pagar – Circulante;A;5;2;2010117;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;571;201011715; Conta de Controle de Custo Contratado - Circulante;A;5;2;2010117;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;572;201011716; Conta de Controle de Custo Orçado - Circulante;A;5;2;2010117;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;573;201011725;Direitos Creditórios a Pagar - Circulante;A;5;2;2010117;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;574;201011728;Outras Obrigações – Circulante;A;5;2;2010117;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;575;201011750;(-)Juros a Apropriar Decorrentes de Ajuste a Valor Presente (AVP)  – Outras Contas a Pagar - Circulante;A;5;2;2010117;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;576;201011760;CPC 47 - Passivos de Contrato - Circulante;A;5;2;2010117;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;577;2010119;RECEITAS DIFERIDAS;S;4;2;20101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;578;201011901;Receitas Diferidas;A;5;2;2010119;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;579;201011902;(-) Custos Correspondentes às Receitas Diferidas;A;5;2;2010119;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;580;201011903;Subvenção Governamental a Apropriar;A;5;2;2010119;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;581;201011950;(-) Juros a Apropriar Decorrentes de Ajuste a Valor Presente (AVP)  – Receitas Diferidas;A;5;2;2010119;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;582;202;PASSIVO NÃO-CIRCULANTE;S;2;2;2;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;583;20201;OBRIGAÇÕES A LONGO PRAZO;S;3;2;202;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;584;2020101;EMPRÉSTIMOS E FINANCIAMENTOS - LONGO PRAZO;S;4;2;20201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;585;202010101;Fornecedores - No País - Longo Prazo;A;5;2;2020101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;586;202010102;Fornecedores - No Exterior - Longo Prazo;A;5;2;2020101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;587;202010103;Credores por Financiamento - Longo Prazo;A;5;2;2020101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;588;202010104;Títulos a Pagar - Longo Prazo;A;5;2;2020101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;589;202010105;Duplicatas Descontadas - Longo Prazo;A;5;2;2020101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;590;202010106;Empréstimos ou Financiamentos - no País - Longo Prazo;A;5;2;2020101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;591;202010107;Empréstimos ou Financiamentos - no Exterior - Longo Prazo;A;5;2;2020101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;592;202010108;Adiantamentos de Contrato de Câmbio - Longo Prazo;A;5;2;2020101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;593;202010109;Arrendamento no País - Longo Prazo;A;5;2;2020101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;594;202010110;Arrendamento no Exterior - Longo Prazo;A;5;2;2020101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;595;202010111;Adiantamentos de Clientes - no País – Longo Prazo;A;5;2;2020101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;596;202010112;Adiantamentos de Clientes - no Exterior – Longo Prazo;A;5;2;2020101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;597;202010150;(-)Juros a Apropriar Decorrentes de Ajuste a Valor Presente (AVP)  – Empréstimos e Financiamentos - Longo Prazo;A;5;2;2020101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;598;202010170;Subconta - Ajuste a Valor Justo - Empréstimos e Financiamentos - Longo Prazo;A;5;2;2020101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;599;202010190;Subconta – Adoção Inicial -  Empréstimos e Financiamentos - Longo Prazo;A;5;2;2020101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;600;2020102;BENEFÍCIOS A EMPREGADOS - LONGO PRAZO;S;4;2;20201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;601;202010201;Benefícios Pós Emprego - Longo Prazo ;A;5;2;2020102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;602;202010202;Outro Benefícios de Longo Prazo - Longo Prazo ;A;5;2;2020102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;603;202010203;Benefícios Rescisórios - Longo Prazo ;A;5;2;2020102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;604;2020103;PARCELAMENTOS FISCAIS  - LONGO PRAZO;S;4;2;20201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;605;202010301;Parcelamentos Especiais e Ordinários a Recolher - Tributos Federais - Longo Prazo;A;5;2;2020103;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;606;202010302;Parcelamentos Especiais e Ordinários a Recolher - Tributos Estaduais e Municipais - Longo Prazo;A;5;2;2020103;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;607;202010328;Outros Tributos a Recolher - Longo Prazo;A;5;2;2020103;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;608;2020105;PASSIVOS FISCAIS DIFERIDOS - LONGO PRAZO;S;4;2;20201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;609;202010501;Débitos Fiscais IRPJ - Diferenças Temporárias - Longo Prazo;A;5;2;2020105;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;610;202010502;Débitos Fiscais CSLL - Diferenças Temporárias - Longo Prazo;A;5;2;2020105;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;611;2020107;TÍTULOS DE DÍVIDA - LONGO PRAZO;S;4;2;20201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;612;202010701;Debêntures a Pagar - Longo Prazo;A;5;2;2020107;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;613;202010702;Prêmio na Emissão de Debêntures - Longo Prazo;A;5;2;2020107;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;614;202010704;Notas Promissórias a Pagar – Longo Prazo;A;5;2;2020107;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;615;202010705;Bonds a Pagar;A;5;2;2020107;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;616;202010706;Certificados de Recebíveis Imobiliários(CRI) – Longo Prazo;A;5;2;2020107;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;617;202010707;Certificados de Recebíveis do Agronegócio(CRA) – Longo Prazo;A;5;2;2020107;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;618;202010725;Outros Títulos de Dívida a Pagar - – Pelo Custo Amortizado  - Longo Prazo;A;5;2;2020107;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;619;202010727;(-) Custos a Amortizar - Títulos de Dívida - Longo Prazo;A;5;2;2020107;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;620;202010728;Outros Títulos de Dívida a Pagar – Pelo Pelo Valor Justo(VJPR)  - – Longo Prazo;A;5;2;2020107;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;621;202010729;(-) Deságio a Apropriar - Debêntures - Longo Prazo;A;5;2;2020107;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;622;202010770;Subconta - Ajuste a Valor Justo – Títulos de Dívida a Pagar - – Longo Prazo;A;5;2;2020107;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;623;2020109;PROVISÕES - LONGO PRAZO;S;4;2;20201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;624;202010901;Provisões de Natureza Trabalhista - Longo Prazo;A;5;2;2020109;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;625;202010902;Provisões de Natureza Tributária - Longo Prazo;A;5;2;2020109;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;626;202010903;Provisões de Natureza Cível - Longo Prazo;A;5;2;2020109;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;627;202010928;Outras Provisões - Longo Prazo;A;5;2;2020109;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;628;2020110;OBRIGAÇÕES FISCAIS – LONGO PRAZO;S;4;2;20201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;629;202011001;IRRF a Recolher - Longo Prazo;A;5;2;2020110;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;630;202011002;IPI a Recolher - Longo Prazo;A;5;2;2020110;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;631;202011003;ICMS a Recolher - Longo Prazo;A;5;2;2020110;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;632;202011004;PIS a Recolher - Longo Prazo;A;5;2;2020110;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;633;202011005;COFINS a Recolher - Longo Prazo;A;5;2;2020110;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;634;202011006;IOF  a Recolher - Longo Prazo;A;5;2;2020110;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;635;202011007;CIDE  a Recolher - Longo Prazo;A;5;2;2020110;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;636;202011008;Tributos Municipais a Recolher - Longo Prazo;A;5;2;2020110;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;637;202011009;Parcelamentos Especiais a Recolher - Tributos Federais – Longo Prazo;A;5;2;2020110;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;638;202011010;Parcelamentos Especiais a Recolher - Tributos Estaduais e Municipais – Longo Prazo;A;5;2;2020110;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;639;202011011;Contribuição a Recolher - Desoneração da Folha de Pagamento - Longo Prazo;A;5;2;2020110;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;640;202011028;Outros Tributos a Recolher - Longo Prazo;A;5;2;2020110;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;641;2020111;OUTRAS OBRIGAÇÕES - LONGO PRAZO;S;4;2;20201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;642;202011101;Mútuos - Partes Não Relacionadas – No País - Longo Prazo;A;5;2;2020111;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;643;202011102;Mútuos - Partes Não Relacionadas - No Exterior - Longo Prazo;A;5;2;2020111;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;644;202011103;Mútuos – Partes Relacionadas – No País - Longo Prazo;A;5;2;2020111;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;645;202011104;Mútuos - Partes Relacionadas – No Exterior - Longo Prazo;A;5;2;2020111;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;646;202011110;Passivo Contingente Assumido em Combinação de Negócios - Longo Prazo;A;5;2;2020111;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;647;202011113;Adiantamento para Futuro Aumento de Capital - Passivo - Longo Prazo;A;5;2;2020111;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;648;202011115; Conta de Controle de Custo Contratado - Longo Prazo;A;5;2;2020111;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;649;202011116; Conta de Controle de Custo Orçado - Longo Prazo;A;5;2;2020111;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;650;202011122;Direitos Creditórios a Pagar – Longo Prazo;A;5;2;2020111;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;651;202011128;Outras Obrigações - Longo Prazo;A;5;2;2020111;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;652;202011150;(-) Juros a Apropriar Decorrentes de Ajuste a Valor Presente (AVP) Outras Obrigações - Longo Prazo;A;5;2;2020111;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;653;202011160;CPC 47 - Passivos de Contrato - Longo Prazo;A;5;2;2020111;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;654;202011170;Subconta - Ajuste a Valor Justo – Outras Obrigações - Longo Prazo;A;5;2;2020111;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;655;202011190;Subconta – Adoção Inicial -  Outras Obrigações - Longo Prazo;A;5;2;2020111;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;656;2020121;RECEITAS DIFERIDAS;S;4;2;20201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;657;202012101;Receitas Diferidas;A;5;2;2020121;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;658;202012102;(-) Custos Correspondentes às Receitas Diferidas;A;5;2;2020121;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;659;202012103;Subvenção Governamental a Apropriar;A;5;2;2020121;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;660;202012150;(-) Juros a Apropriar Decorrentes de Ajuste a Valor Presente (AVP) - Receita Diferida - Longo Prazo;A;5;2;2020121;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;661;202012170;Subconta - Ajuste a Valor Justo – Receita Diferida - Longo Prazo;A;5;2;2020121;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;662;202012190;Subconta – Adoção Inicial -  Receita Diferida - Longo Prazo;A;5;2;2020121;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;663;203;PATRIMÔNIO LÍQUIDO;S;2;3;2;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;664;20301;CAPITAL SOCIAL;S;3;3;203;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;665;2030101;CAPITAL REALIZADO - DE RESIDENTE NO PAÍS;S;4;3;20301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;666;203010101;Capital Subscrito de Domiciliados e Residentes no País;A;5;3;2030101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;667;203010121;(-) Capital a Integralizar de Domiciliados e Residentes no País;A;5;3;2030101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;668;2030102;CAPITAL REALIZADO - DE NÃO RESIDENTE NO PAÍS;S;4;3;20301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;669;203010201;Capital Subscrito de Domiciliados e Residentes no Exterior;A;5;3;2030102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;670;203010210;(-) Capital a Integralizar de Domiciliados e Residentes no Exterior;A;5;3;2030102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;671;2030110;GASTOS COM EMISSÕES DE TÍTULOS PATRIMONIAIS;S;4;3;20301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;672;203011001;(-) Gastos com Emissão de Ações;A;5;3;2030110;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;673;20302;RESERVAS;S;3;3;203;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;674;2030201;RESERVAS DE CAPITAL;S;4;3;20302;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;675;203020101;Ágio na Emissão de Ações;A;5;3;2030201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;676;203020102;Reserva Especial de Ágio na Incorporação;A;5;3;2030201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;677;203020103;Alienação de Partes Beneficiárias e Bônus de Subscrição;A;5;3;2030201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;678;203020111;Doações e Subvenções para Investimentos (Reserva constituída até 31/12/2007);A;5;3;2030201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;679;203020112;Prêmio Recebido na Emissão de Debêntures (Reserva constituída até 31/12/2007);A;5;3;2030201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;680;203020199;Outras Reservas de Capital;A;5;3;2030201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;681;2030202;RESERVAS DE REAVALIAÇÃO;S;4;3;20302;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;682;203020201;Reserva de Reavaliação ;A;5;3;2030202;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;683;203020202;Reserva de Reavaliação Reflexa ;A;5;3;2030202;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;684;2030203;RESERVAS DE LUCROS;S;4;3;20302;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;685;203020301;Reserva Legal;A;5;3;2030203;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;686;203020302;Reserva Estatutária;A;5;3;2030203;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;687;203020303;Reserva para Contingência;A;5;3;2030203;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;688;203020304;Reserva de Incentivos Fiscais;A;5;3;2030203;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;689;203020305;Reserva de Lucros para Expansão;A;5;3;2030203;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;690;203020306;Reserva de Lucros a Realizar;A;5;3;2030203;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;691;203020307;Reserva Especial para Dividendo Obrigatório não Distribuído;A;5;3;2030203;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;692;203020308;Reserva de Prêmio na Emissão de Debêntures;A;5;3;2030203;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;693;203020309;Reserva para Aumento de Capital (Lei nº 9.249/1995, art. 9º, § 9º);A;5;3;2030203;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;694;203020399;Outras Reservas de Lucros;A;5;3;2030203;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;695;20303;AJUSTES DE AVALIAÇÃO PATRIMONIAL;S;3;3;203;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;696;2030301;AJUSTES DE AVALIAÇÃO PATRIMONIAL;S;4;3;20303;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;697;203030101;Contrapartidas Ajustes Ativos Financeiros Disponíveis para Venda;A;5;3;2030301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;698;203030102;Contrapartidas Ajustes em Operações de Hedge;A;5;3;2030301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;699;203030103;Contrapartida da Diferença Positiva de Ativo Imobilizado Transferido para Propriedades  para Investimento;A;5;3;2030301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;700;203030104;Contrapartida de Ajustes dos Planos de Benefícios a Empregados;A;5;3;2030301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;701;203030105;Contrapartida de Ajustes do Ativo Imobilizado e de Propriedades para Investimento - Adoção Inicial CPC;A;5;3;2030301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;702;203030106;Ajustes Acumulados de Conversão;A;5;3;2030301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;703;203030130;(-) Ajustes de Avaliação Patrimonial Negativos;A;5;3;2030301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;704;203030190;Outros Resultados Abrangentes - Ajustes de Avaliação Patrimonial;A;5;3;2030301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;705;2030302;AJUSTES DE AVALIAÇÃO PATRIMONIAL - REFLEXOS;S;4;3;20303;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;706;203030201;Contrapartidas Ajustes Ativos Financeiros Disponíveis para Venda - Reflexa;A;5;3;2030302;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;707;203030202;Contrapartidas Ajustes em Operações de Hedge - Reflexa;A;5;3;2030302;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;708;203030203;Contrapartida Diferença Positiva de Ativo Imobilizado Transferido para Propriedades para Investimento - Reflexa;A;5;3;2030302;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;709;203030204;Contrapartida Ajustes Planos de Benefícios a Empregados - Reflexa;A;5;3;2030302;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;710;203030205;Contrapartida Ajustes Imobilizado e Propriedades para Investimento - Adoção Inicial CPC - Reflexa;A;5;3;2030302;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;711;203030206;Ajustes Acumulados de Conversão - Reflexa;A;5;3;2030302;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;712;203030230;(-) Ajustes de Avaliação Patrimonial Negativos - Reflexa;A;5;3;2030302;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;713;203030290;Outros Resultados Abrangentes - Ajustes de Avaliação Patrimonial - Reflexa;A;5;3;2030302;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;714;20304;OUTRAS CONTAS DO PATRIMÔNIO LÍQUIDO;S;3;3;203;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;715;2030401;OUTRAS CONTAS DO PATRIMÔNIO LÍQUIDO;S;4;3;20304;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;716;203040101;Lucros Acumulados e/ou Saldo à Disposição da Assembleia;A;5;3;2030401;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;717;203040105;Contraprestação Contingente - Combinação de Negócios - Patrimônio Líquido;A;5;3;2030401;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;718;203040110;Ajustes de Exercícios Anteriores;A;5;3;2030401;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;719;203040111;(-) Prejuízos Acumulados;A;5;3;2030401;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;720;203040112;(-) Ações em Tesouraria;A;5;3;2030401;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;721;203040115;(-) Transações de Capital;A;5;3;2030401;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;722;203040190;Contas do Patrimônio Líquido Não Classificadas;A;5;3;2030401;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;723;3;RESULTADO LÍQUIDO DO PERÍODO;S;1;4;;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;724;301;RESULTADO LÍQUIDO DO PERÍODO ANTES DO IRPJ E DA CSLL - ATIVIDADE GERAL;S;2;4;3;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;725;30101;RESULTADO OPERACIONAL;S;3;4;301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;726;3010101;RECEITA LIQUIDA;S;4;4;30101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;727;301010101;RECEITA BRUTA;S;5;4;3010101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;728;30101010101;Receita de Exportação Direta de Mercadorias e Produtos;A;6;4;301010101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;729;30101010102;Receita de Vendas de Mercadorias e Produtos a Comercial Exportadora com Fim Específico de Exportação;A;6;4;301010101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;730;30101010103;Receita de Exportação de Serviços;A;6;4;301010101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;731;30101010104;Receita da Venda de Produtos de Fabricação Própria no Mercado Interno;A;6;4;301010101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;732;30101010105;Receita da Revenda de Mercadorias no Mercado Interno;A;6;4;301010101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;733;30101010106;Receita da Prestação de Serviços no Mercado Interno;A;6;4;301010101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;734;30101010107;Receita da Venda de Unidades Imobiliárias;A;6;4;301010101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;735;30101010108;Receita da Locação de Bens Móveis e Imóveis;A;6;4;301010101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;736;30101010120;Receita de Contrato de Construção;A;6;4;301010101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;737;30101010125;Receita de Direito de Exploração Serviço Público ;A;6;4;301010101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;738;30101010130;Receita de Securitização de Créditos;A;6;4;301010101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;739;30101010198;Outras Receitas da Atividade Geral;A;6;4;301010101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;740;301010102;DEDUÇÕES DA RECEITA BRUTA;S;5;4;3010101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;741;30101010201;(-) Vendas Canceladas e Devoluções de Vendas;A;6;4;301010102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;742;30101010202;(-) Descontos Incondicionais e Abatimentos;A;6;4;301010102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;743;30101010203;(-) ICMS;A;6;4;301010102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;744;30101010204;(-) COFINS Sobre Receita Bruta;A;6;4;301010102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;745;30101010205;(-) PIS/PASEP Sobre Receita Bruta;A;6;4;301010102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;746;30101010206;(-) ISS;A;6;4;301010102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;747;30101010209;(-) Demais Impostos e Contribuições Incidentes sobre Vendas e Serviços;A;6;4;301010102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;748;30101010210;(-) Ajuste a Valor Presente sobre Receita Bruta;A;6;4;301010102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;749;30101010260;(-) CPC 47 - Modificações Contratuais;A;6;4;301010102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;750;30101010262;(-) CPC 47 - Reconhecimento de Passivos de Contrato - Garantias;A;6;4;301010102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;751;30101010264;(-) CPC 47 - Reconhecimento de Passivos de Contrato - Direitos não Exercidos;A;6;4;301010102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;752;30101010266;(-) CPC 47 - Reconhecimento de Passivos de Contrato - Serviços de Custódia - Vendas para Entrega Futura;A;6;4;301010102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;753;30101010268;(-) CPC 47 - Preço de Transação - Contraprestações Variáveis;A;6;4;301010102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;754;30101010270;(-) CPC 47 - Preço de Transação - Reavaliações de Contraprestação Variável;A;6;4;301010102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;755;30101010272;(-) CPC 47 - Preço de Transação - Contraprestações Pagas ou a Pagar;A;6;4;301010102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;756;30101010274;(-) CPC 47 - Preço de Transação - Obrigações de Desempenho;A;6;4;301010102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;757;30101010276;(-) CPC 47 - Critérios Divergentes da Legislação Tributária - Não Recebimento de Contraprestação;A;6;4;301010102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;758;30101010278;(-) CPC 47 - Critérios Divergentes da Legislação Tributária - Passivos de Contrato - Direito à Devolução;A;6;4;301010102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;759;30101010280;(-) CPC 47 - Critérios Divergentes da Legislação Tributária - Passivos de Contrato - Direito de Aquisição Opcional;A;6;4;301010102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;760;3010103;CUSTO DOS BENS E SERVIÇOS;S;4;4;30101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;761;301010301;CUSTO DOS BENS E SERVIÇOS VENDIDOS DAS ATIVIDADES EM GERAL;S;5;4;3010103;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;762;30101030101;(-) Custo dos Produtos de Fabricação Própria Vendidos;A;6;4;301010301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;763;30101030102;(-) Custo das Mercadorias Revendidas;A;6;4;301010301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;764;30101030103;(-) Custo dos Serviços Prestados;A;6;4;301010301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;765;30101030104;(-) Custo das Unidades Imobiliárias Vendidas;A;6;4;301010301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;766;30101030110;(-) Custo dos Bens Arrendados;A;6;4;301010301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;767;30101030120;(-) Custo de Construção;A;6;4;301010301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;768;30101030130;(-) Custo de Operação de Securitização;A;6;4;301010301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;769;3010105;OUTRAS RECEITAS OPERACIONAIS;S;4;4;30101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;770;301010501;OUTRAS RECEITAS OPERACIONAIS DAS ATIVIDADES EM GERAL;S;5;4;3010105;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;771;30101050101;Variações Cambiais Ativas;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;772;30101050102;Ganhos Auferidos no Mercado de Renda Variável, exceto Day-Trade;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;773;30101050103;Ganhos em Operações Day-Trade;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;774;30101050104;Receitas de Juros sobre o Capital Próprio;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;775;30101050105;Outras Receitas Financeiras;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;776;30101050106;Resultados Positivos em Participações Societárias Avaliadas pelo Método de Equivalência Patrimonial;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;777;30101050107;Resultados Positivos em SCP Avaliadas pelo Método de Equivalência Patrimonial;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;778;30101050108;Rendimentos e Ganhos de Capital Auferidos no Exterior;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;779;30101050109;Reversão das Perdas Estimadas Decorrentes de Teste de Recuperabilidade (Impairment);A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;780;30101050110;Reversão dos Saldos das Provisões;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;781;30101050111;Prêmios Recebidos na Emissão de Debêntures;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;782;30101050112;Doações e Subvenções para Custeio ou Operações;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;783;30101050113;Doações e Subvenções para Investimentos;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;784;30101050114;Receitas de Reclassificação de Ajustes de Avaliação Patrimonial;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;785;30101050115;Receitas de Reclassificação de Ajustes de Avaliação Patrimonial - Reflexo;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;786;30101050116;Receitas Financeiras Decorrentes de Ajustes ao Valor Presente;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;787;30101050117;Ganho Por Compra Vantajosa em Investimentos;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;788;30101050118;Amortização de Menos-Valia;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;789;30101050119;Receita de Aluguel de Bens Imóveis - Atividade Não Principal;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;790;30101050120;Receita de Aluguel de Bens Móveis - Atividade Não Principal;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;791;30101050121;Créditos Presumidos de IPI;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;792;30101050122;Créditos Presumidos de PIS/COFINS;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;793;30101050123;Outros Créditos Fiscais Presumidos;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;794;30101050124;Multas e Outras Vantagens Recebidas;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;795;30101050125;Lucros e Dividendos Derivados de Participações Societárias Avaliadas pelo Custos de Aquisição;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;796;30101050126;Receitas com Empréstimos de Valores Mobiliários;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;797;30101050127;Rendimentos Auferidos em Operações de Mútuo – Partes Relacionadas;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;798;30101050128;Rendimentos Auferidos em Operações de Mútuo – Partes Não Relacionadas;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;799;30101050129;Rendimentos Auferidos com Debêntures - Emitente Partes  Relacionadas;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;800;30101050130;Rendimentos Auferidos com Debêntures - Emitente Partes Não Relacionadas;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;801;30101050131;Rendimentos Auferidos com Títulos Públicos;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;802;30101050132;Juros Auferidos com Outros Ativos Financeiros Mensurados Pelo Custo Amortizado;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;803;30101050133;Ganho de Ajustes a Valor Justo - Instrumentos Financeiros  para Negociação - Não Hedge – Valor Justo pelo Resultado (VJPR).;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;804;30101050134;Ganho de Ajustes a Valor Justo  - Instrumentos Financeiros  Disponíveis para Venda - Reclassificação de Ajustes de Avaliação Patrimonial;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;805;30101050135;Ganho de Ajustes a Valor Justo - Instrumentos Financeiros  de Hedge  de Valor Justo;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;806;30101050136;Ganho de Ajustes a Valor Justo - Instrumentos Financeiros  de Hedge -  Reclassificação de Ajustes de Avaliação Patrimonial;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;807;30101050137;Ganho de Ajustes a Valor Justo - Item Objeto de Hedge de Valor Justo;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;808;30101050138;Ganho de Ajustes a Valor Justo - Propriedade para Investimento;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;809;30101050139;Ganho de Ajustes a Valor Justo - Ativo Biológico Consumível;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;810;30101050140;Ganho de Ajustes a Valor Justo - Ativo Biológico de Produção;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;811;30101050141;Ganho de Ajustes a Valor Justo - Ativos Não Circulantes Mantidos para Venda;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;812;30101050142;Ganho de Ajustes a Valor Justo - Subscrição de Capital com demais Bens;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;813;30101050143;Ganho de Ajustes a Valor Justo - Subscrição de Capital com Participação Societária;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;814;30101050144;Ganho de Ajustes a Valor Justo - Aquisição de Participação Societária em Estágios;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;815;30101050145;Ganho de Ajustes a Valor Justo - Decorrente de Permuta de Ativos ou Passivos;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;816;30101050146;Ganho de Ajustes a Valor Justo - Outras Operações;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;817;30101050147;Doações e Subvenções para investimentos Habilitadas para Crédito Fiscal de IRPJ;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;818;30101050199;Outras Receitas Operacionais;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;819;3010107;DESPESAS OPERACIONAIS;S;4;4;30101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;820;301010701;DESPESAS OPERACIONAIS DAS ATIVIDADES EM GERAL;S;5;4;3010107;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;821;30101070101;(-) Remuneração a Dirigentes e a Conselho de Administração;A;6;4;301010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;822;30101070102;(-) Ordenados, Salários, Gratificações e Outras Remunerações a Empregados;A;6;4;301010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;823;30101070103;(-) Outros Gastos com Pessoal;A;6;4;301010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;824;30101070104;(-) Outros Serviços Prestados por Pessoa Física ou Jurídica;A;6;4;301010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;825;30101070105;(-) Encargos Sociais - Previdência Social;A;6;4;301010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;826;30101070106;(-) Encargos Sociais - FGTS;A;6;4;301010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;827;30101070107;(-) Encargos Sociais – Outros;A;6;4;301010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;828;30101070108;(-) Doações e Patrocínios de Caráter Cultural e Artístico (Lei no 8.313/1991);A;6;4;301010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;829;30101070109;(-) Operações de Aquisição de Vale Cultura (Lei no 12.761/2012, art. 10).;A;6;4;301010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;830;30101070110;(-) Doações a Instituições de Ensino e Pesquisa (Lei nº 9.249/1995, art.13, § 2º);A;6;4;301010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;831;30101070111;(-) Doações a Entidades Civis;A;6;4;301010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;832;30101070112;(-) Outras Contribuições, Doações e Patrocínios;A;6;4;301010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;833;30101070113;(-) Alimentação do Trabalhador;A;6;4;301010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;834;30101070114;(-) PIS/PASEP;A;6;4;301010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;835;30101070115;(-) COFINS;A;6;4;301010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;836;30101070116;(-) Demais Impostos, Taxas e Contribuições, exceto IR e CSLL;A;6;4;301010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;837;30101070117;(-) Arrendamento Mercantil;A;6;4;301010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;838;30101070118;(-) Aluguéis;A;6;4;301010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;839;30101070119;(-) Despesas com Veículos e de Conservação de Bens e Instalações;A;6;4;301010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;840;30101070120;(-) Propaganda, Publicidade e Patrocínio;A;6;4;301010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;841;30101070121;(-) Propaganda, Publicidade e Patrocínio de Assoc. Desportivas que Mantenha Equipe de Futebol Profissional;A;6;4;301010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;842;30101070122;(-) Multas;A;6;4;301010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;843;30101070123;(-) Encargos de Depreciação;A;6;4;301010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;844;30101070124;(-) Encargos de Amortização;A;6;4;301010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;845;30101070125;(-) Perdas em Operações de Crédito;A;6;4;301010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;846;30101070126;(-) Provisões para Férias;A;6;4;301010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;847;30101070127;(-) Provisões para 13º Salário de Empregados;A;6;4;301010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;848;30101070128;(-) Provisão para Perda de Estoque de Livros;A;6;4;301010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;849;30101070129;(-) Demais Provisões;A;6;4;301010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;850;30101070130;(-) Gratificações a Administradores;A;6;4;301010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;851;30101070131;(-) Royalties e Assistência Técnica - no PAÍS;A;6;4;301010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;852;30101070132;(-) Royalties e Assistência Técnica - no EXTERIOR;A;6;4;301010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;853;30101070133;(-) Assistência Médica, Odontológica e Farmacêutica a Empregados;A;6;4;301010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;854;30101070134;(-) Pesquisas Científicas e Tecnológicas;A;6;4;301010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;855;30101070135;(-) Bens de Pequeno Valor Unitário ou de Vida Útil de até um Ano Deduzidos como Despesa;A;6;4;301010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;856;30101070136;(-) Despesas com Energia Elétrica;A;6;4;301010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;857;30101070137;(-) Despesas com Água e Esgoto;A;6;4;301010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;858;30101070138;(-) Despesas com Telefone e Internet;A;6;4;301010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;859;30101070139;(-) Despesas com Correios e Malotes;A;6;4;301010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;860;30101070140;(-) Despesas com Seguros;A;6;4;301010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;861;30101070141;(-) Benefícios Previdenciários a Empregados;A;6;4;301010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;862;30101070142;(-) Fundo de Aposentadora Individual - FAPI;A;6;4;301010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;863;30101070143;(-) Planos de Poupança e Investimento - PAIT;A;6;4;301010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;864;30101070144;(-) Pesquisa e Desenvolvimento Abrangidas no Programa Rota 2030;A;6;4;301010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;865;3010109;OUTRAS DESPESAS OPERACIONAIS;S;4;4;30101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;866;301010901;OUTRAS DESPESAS OPERACIONAIS DAS ATIVIDADES EM GERAL;S;5;4;3010109;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;867;30101090101;(-) Variações Cambiais Passivas;A;6;4;301010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;868;30101090102;(-) Perdas Incorridas no Mercado de Renda Variável, exceto Day-Trade;A;6;4;301010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;869;30101090103;(-) Perdas em Operações Day-Trade;A;6;4;301010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;870;30101090104;(-) Despesas de Juros sobre o Capital Próprio;A;6;4;301010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;871;30101090105;(-) Despesas de Remuneração de Debêntures;A;6;4;301010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;872;30101090106;(-) Juros com Empréstimos de Pessoas Vinculadas ou Situadas em País com Tributação favorecida;A;6;4;301010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;873;30101090107;(-) Despesas Financeiras Relativas a Arrendamento;A;6;4;301010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;874;30101090108;(-) Outras Despesas Financeiras;A;6;4;301010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;875;30101090109;(-) Resultados Negativos em Participações Societárias Avaliadas pelo Método de Equivalência Patrimonial;A;6;4;301010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;876;30101090110;(-) Resultados Negativos em SCP Avaliadas pelo Método de Equivalência Patrimonial;A;6;4;301010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;877;30101090111;(-) Perdas em Operações Realizadas no Exterior;A;6;4;301010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;878;30101090112;(-) Perdas Estimadas Decorrentes de Teste de Recuperabilidade (Impairment);A;6;4;301010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;879;30101090113;(-) Despesas de Reclassificação de Ajustes de Avaliação Patrimonial;A;6;4;301010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;880;30101090114;(-) Despesas de Reclassificação de Ajustes de Avaliação Patrimonial -Reflexo;A;6;4;301010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;881;30101090115;(-) Despesas Financeiras Decorrentes dos Ajustes ao Valor Presente;A;6;4;301010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;882;30101090116;(-) Encargos de Depreciação de Bens Objeto de Arrendamento;A;6;4;301010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;883;30101090117;(-) Encargos de Amortização de Mais -Valia;A;6;4;301010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;884;30101090118;(-) Aluguéis de Bens Imóveis- Locador  Parte Relacionada;A;6;4;301010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;885;30101090119;(-) Aluguéis de Bens Imóveis Locador  Parte Não Relacionada;A;6;4;301010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;886;30101090120;(-) Despesas com Empréstimos de Valores Mobiliários;A;6;4;301010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;887;30101090121;(-) Despesas com Corretagem e Emolumentos;A;6;4;301010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;888;30101090122;(-) Despesas  com Deságio na Cessão de Títulos;A;6;4;301010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;889;30101090123;(-) Despesas Incorridas em Operações de Mútuo – Parte Relacionada;A;6;4;301010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;890;30101090124;(-) Despesas Incorridas em Operações de Mútuo – Parte Não Relacionada;A;6;4;301010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;891;30101090125;(-) Despesas Incorridas  em Outros Passivos Financeiros Mensurados Pelo Custo Amortizado;A;6;4;301010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;892;30101090126;(-) Perda de Ajuste a Valor Justo - Instrumentos Financeiros para Negociação - Não Hedge - Valor Justo pelo Resultado;A;6;4;301010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;893;30101090127;(-) Perda de Ajuste a Valor Justo - Instrumentos Financeiros Disponíveis para Venda - Reclassificação de Ajustes de Avaliação Patrimonial;A;6;4;301010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;894;30101090128;(-) Perda de Ajuste a Valor Justo - Instrumentos Financeiros de Hedge de Valor Justo;A;6;4;301010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;895;30101090129;(-) Perda de Ajuste a Valor Justo - Instrumentos Financeiros de Hedge -  Reclassificação de Ajustes de Avaliação Patrimonial;A;6;4;301010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;896;30101090130;(-) Perda de Ajuste a Valor Justo - Item Objeto de Hedge de Valor Justo;A;6;4;301010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;897;30101090131;(-) Perda de Ajuste a Valor Justo - Propriedade para Investimento;A;6;4;301010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;898;30101090132;(-) Perda de Ajuste a Valor Justo - Ativo Biológico Consumível;A;6;4;301010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;899;30101090133;(-) Perda de Ajuste a Valor Justo - Ativo Biológico de Produção;A;6;4;301010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;900;30101090134;(-) Perda de Ajuste a Valor Justo - Ativos Não Circulantes Mantidos para Venda;A;6;4;301010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;901;30101090135;(-) Perda de Ajuste a Valor Justo - Subscrição de Capital com demais Bens;A;6;4;301010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;902;30101090136;(-) Perda de Ajuste a Valor Justo - Subscrição de Capital com Participação Societária;A;6;4;301010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;903;30101090137;(-) Perda de Ajuste a Valor Justo - Aquisição de Participação Societária em Estágios;A;6;4;301010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;904;30101090138;(-) Perda de Ajuste a Valor Justo - Decorrente de Permuta de Ativos ou Passivos;A;6;4;301010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;905;30101090139;(-) Perda de Ajuste a Valor Justo - Outras Operações;A;6;4;301010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;906;30101090199;(-) Outras Despesas Operacionais;A;6;4;301010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;907;3010111;OUTRAS RECEITAS, OUTRAS DESPESAS E RESULTADO DE OPERAÇÕES DESCONTINUADAS;S;4;4;30101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;908;301011101;OUTRAS RECEITAS, OUTRAS DESPESAS E RESULTADO DE OPERAÇÕES DESCONTINUADAS DAS ATIVIDADES EM GERAL;S;5;4;3010111;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;909;30101110101;Receitas na Alienação de Participações Integrantes do Ativo Circulante ou do Ativo Realizável a Longo Prazo;A;6;4;301011101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;910;30101110102;Receitas de Alienações de Bens e Direitos do Ativo Não Circulante Investimentos, Imobilizado e Intangível;A;6;4;301011101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;911;30101110103;Ganhos de Capital por Variação Percentual em Participação Societária Avaliada pelo Patrimônio Líquido;A;6;4;301011101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;912;30101110104;(-) Valor Contábil de Participações Integrantes do Ativo Circulante ou do Ativo Realizável a Longo Prazo Alienadas;A;6;4;301011101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;913;30101110105;(-) Valor Contábil dos Bens e Direitos do Ativo Não Circulante Investimentos, Intangível e Imobilizado Alienados;A;6;4;301011101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;914;30101110106;(-) Perdas de Capital por Variação Percentual em Participação Societária Avaliada pelo Patrimônio Líquido;A;6;4;301011101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;915;30101110107;Receitas de Operações Descontinuadas;A;6;4;301011101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;916;30101110108;(-) Despesas de Operações Descontinuadas;A;6;4;301011101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;917;30105;PARTICIPAÇÕES;S;3;4;301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;918;3010501;PARTICIPAÇÕES NOS LUCROS;S;4;4;30105;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;919;301050101;PARTICIPAÇÕES DE EMPREGADOS;S;5;4;3010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;920;30105010101;(-) Participações de Empregados;A;6;4;301050101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;921;30105010102;(-) Contribuições para Assistência ou Previdência de Empregados;A;6;4;301050101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;922;30105010198;(-) Outras Participações de Empregados;A;6;4;301050101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;923;301050103;OUTRAS PARTICIPAÇÕES;S;5;4;3010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;924;30105010301;(-) Participações de Administradores e Partes Beneficiárias;A;6;4;301050103;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;925;30105010302;(-) Participações de Debêntures;A;6;4;301050103;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;926;30105010398;(-) Outras Participações;A;6;4;301050103;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;927;302;PROVISÃO PARA CSLL E IRPJ;S;2;4;3;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;928;30201;PROVISÃO PARA CSLL E IRPJ;S;3;4;302;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;929;3020101;PROVISÃO PARA CSLL E IRPJ;S;4;4;30201;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;930;302010101;PROVISÃO PARA CSLL E IRPJ;S;5;4;3020101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;931;30201010101;(-) Provisão para Contribuição Social sobre o Lucro Líquido (Atividade Geral);A;6;4;302010101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;932;30201010102;(-) Provisão para Imposto de Renda - Pessoa Jurídica (Atividade Geral e Rural);A;6;4;302010101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;933;30201010111;(-) Provisão para Contribuição Social sobre o Lucro Líquido - Lucros Diferidos (Atividade Geral);A;6;4;302010101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;934;30201010112;(-) Provisão para Imposto de Renda - Pessoa Jurídica - Lucros Diferidos (Atividade Geral e Rural);A;6;4;302010101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;935;311;RESULTADO LÍQUIDO DO PERÍODO ANTES DO IRPJ E DA CSLL - ATIVIDADE RURAL;S;2;4;3;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;936;31101;RESULTADO OPERACIONAL DA ATIVIDADE RURAL;S;3;4;311;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;937;3110101;RECEITA OPERACIONAL LÍQUIDA DA ATIVIDADE RURAL;S;4;4;31101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;938;311010101;RECEITA BRUTA DA ATIVIDADE RURAL;S;5;4;3110101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;939;31101010101;Receita da Atividade Rural - Exportação Direta;A;6;4;311010101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;940;31101010102;Receita da Atividade Rural - Venda a Comercial Exportadora com Fim Específico de Exportação;A;6;4;311010101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;941;31101010103;Receita da Atividade Rural - Mercado Interno;A;6;4;311010101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;942;311010102;DEDUÇÕES DA RECEITA BRUTA;S;5;4;3110101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;943;31101010201;(-) Vendas Canceladas e Devoluções de Vendas;A;6;4;311010102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;944;31101010202;(-) Descontos Incondicionais e Abatimentos;A;6;4;311010102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;945;31101010203;(-) ICMS;A;6;4;311010102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;946;31101010204;(-) Cofins Sobre Receita Bruta;A;6;4;311010102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;947;31101010205;(-) PIS/Pasep Sobre Receita Bruta;A;6;4;311010102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;948;31101010206;(-) ISS;A;6;4;311010102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;949;31101010209;(-) Demais Impostos e Contribuições Incidentes sobre Vendas e Serviços;A;6;4;311010102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;950;31101010210;(-) Ajuste a Valor Presente sobre Receita Bruta;A;6;4;311010102;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;951;3110103;CUSTO DOS BENS E PRODUTOS;S;4;4;31101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;952;311010301;CUSTO DOS BENS E PRODUTOS VENDIDOS DA ATIVIDADE RURAL;S;5;4;3110103;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;953;31101030101;(-) Custo dos Bens e Produtos Vendidos da Atividade Rural;A;6;4;311010301;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;954;3110105;OUTRAS RECEITAS OPERACIONAIS;S;4;4;31101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;955;311010501;OUTRAS RECEITAS OPERACIONAIS DA ATIVIDADE RURAL;S;5;4;3110105;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;956;31101050101;Variações Cambiais Ativas;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;957;31101050102;Ganhos Auferidos no Mercado de Renda Variável, exceto Day-Trade;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;958;31101050103;Ganhos em Operações Day-Trade;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;959;31101050104;Receitas de Juros sobre o Capital Próprio;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;960;31101050105;Outras Receitas Financeiras;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;961;31101050106;Resultados Positivos em Participações Societárias Avaliadas pelo Método de Equivalência Patrimonial;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;962;31101050107;Resultados Positivos em SCP Avaliadas pelo Método de Equivalência Patrimonial;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;963;31101050108;Rendimentos e Ganhos de Capital Auferidos no Exterior;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;964;31101050109;Reversão das Perdas Estimadas Decorrentes de Teste de Recuperabilidade (Impairment);A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;965;31101050110;Reversão dos Saldos das Provisões;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;966;31101050111;Prêmios Recebidos na Emissão de Debêntures;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;967;31101050112;Doações e Subvenções para Custeio ou Operações;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;968;31101050113;Receitas de Reclassificação de Ajustes de Avaliação Patrimonial;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;969;31101050114;Receitas de Reclassificação de Ajustes de Avaliação Patrimonial - Reflexo;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;970;31101050116;Receitas Financeiras Decorrentes de Ajustes ao Valor Presente;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;971;31101050117;Ganho Por Compra Vantajosa em Investimentos;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;972;31101050118;Amortização de Menos-Valia;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;973;31101050119;Receita de Aluguel de Bens Imóveis - Atividade Não Principal;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;974;31101050120;Receita de Aluguel de Bens Móveis - Atividade Não Principal;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;975;31101050121;Créditos Presumidos de IPI;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;976;31101050122;Créditos Presumidos de PIS/COFINS;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;977;31101050123;Outros Créditos Fiscais Presumidos;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;978;31101050124;Multas e Outras Vantagens Recebidas;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;979;31101050125;Lucros e Dividendos Derivados de Participações Societárias Avaliadas pelo Custos de Aquisição;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;980;31101050126;Receitas com Empréstimos de Valores Mobiliários;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;981;31101050127;Rendimentos Auferidos em Operações de Mútuo – Partes Relacionadas;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;982;31101050128;Rendimentos Auferidos em Operações de Mútuo – Partes Não Relacionadas;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;983;31101050129;Rendimentos Auferidos com Debêntures - Emitente Partes  Relacionadas;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;984;31101050130;Rendimentos Auferidos com Debêntures - Emitente Partes Não Relacionadas;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;985;31101050131;Rendimentos Auferidos com Títulos Públicos;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;986;31101050132;Juros Auferidos com Outros Ativos Financeiros Mensurados Pelo Custo Amortizado;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;987;31101050133;Ganho de Ajustes a Valor Justo - Instrumentos Financeiros  para Negociação - Não Hedge – Valor Justo pelo Resultado (VJPR).;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;988;31101050134;Ganho de Ajustes a Valor Justo  - Instrumentos Financeiros  Disponíveis para Venda - Reclassificação de Ajustes de Avaliação Patrimonial;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;989;31101050135;Ganho de Ajustes a Valor Justo - Instrumentos Financeiros  de Hedge  de Valor Justo;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;990;31101050136;Ganho de Ajustes a Valor Justo - Instrumentos Financeiros  de Hedge -  Reclassificação de Ajustes de Avaliação Patrimonial;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;991;31101050137;Ganho de Ajustes a Valor Justo - Item Objeto de Hedge de Valor Justo;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;992;31101050138;Ganho de Ajustes a Valor Justo - Propriedade para Investimento;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;993;31101050139;Ganho de Ajustes a Valor Justo - Ativo Biológico Consumível;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;994;31101050140;Ganho de Ajustes a Valor Justo - Ativo Biológico de Produção;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;995;31101050141;Ganho de Ajustes a Valor Justo - Ativos Não Circulantes Mantidos para Venda;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;996;31101050142;Ganho de Ajustes a Valor Justo - Subscrição de Capital com demais Bens;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;997;31101050143;Ganho de Ajustes a Valor Justo - Subscrição de Capital com Participação Societária;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;998;31101050144;Ganho de Ajustes a Valor Justo - Aquisição de Participação Societária em Estágios;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;999;31101050145;Ganho de Ajustes a Valor Justo - Decorrente de Permuta de Ativos ou Passivos;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1000;31101050146;Ganho de Ajustes a Valor Justo - Outras Operações;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1001;31101050147;Doações e Subvenções para Investimentos;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1002;31101050148;Doações e Subvenções para investimentos Habilitadas para Crédito Fiscal de IRPJ;A;6;4;301010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1003;31101050199;Outras Receitas Operacionais;A;6;4;311010501;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1004;3110107;DESPESAS OPERACIONAIS;S;4;4;31101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1005;311010701;DESPESAS OPERACIONAIS DA ATIVIDADE RURAL;S;5;4;3110107;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1006;31101070101;(-) Remuneração a Dirigentes e a Conselho de Administração;A;6;4;311010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1007;31101070102;(-) Ordenados, Salários, Gratificações e Outras Remunerações a Empregados;A;6;4;311010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1008;31101070103;(-) Outros Gastos com Pessoal;A;6;4;311010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1009;31101070104;(-) Outros Serviços Prestados por Pessoa Física ou Jurídica;A;6;4;311010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1010;31101070105;(-) Encargos Sociais - Previdência Social;A;6;4;311010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1011;31101070106;(-) Encargos Sociais - FGTS;A;6;4;311010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1012;31101070107;(-) Encargos Sociais – Outros;A;6;4;311010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1013;31101070108;(-) Doações e Patrocínios de Caráter Cultural e Artístico (Lei no 8.313/1991);A;6;4;311010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1014;31101070109;(-) Doações de Aquisição de Vale-Cultura (Lei no 12.761/2012, art. 10);A;6;4;311010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1015;31101070110;(-) Doações a Instituições de Ensino e Pesquisa (Lei nº 9.249/1995, art.13, § 2º);A;6;4;311010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1016;31101070111;(-) Doações a Entidades Civis;A;6;4;311010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1017;31101070112;(-) Outras Contribuições, Doações e Patrocínios;A;6;4;311010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1018;31101070113;(-) Alimentação do Trabalhador;A;6;4;311010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1019;31101070114;(-) PIS/PASEP;A;6;4;311010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1020;31101070115;(-) COFINS;A;6;4;311010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1021;31101070116;(-) Demais Impostos, Taxas e Contribuições, exceto IR e CSLL;A;6;4;311010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1022;31101070117;(-) Arrendamento Mercantil;A;6;4;311010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1023;31101070118;(-) Aluguéis;A;6;4;311010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1024;31101070119;(-) Despesas com Veículos e de Conservação de Bens e Instalações;A;6;4;311010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1025;31101070120;(-) Propaganda, Publicidade e Patrocínio;A;6;4;311010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1026;31101070121;(-) Propaganda, Publicidade e Patrocínio de Assoc. Desportivas que Mantenha Equipe de Futebol Profissional;A;6;4;311010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1027;31101070122;(-) Multas;A;6;4;311010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1028;31101070123;(-) Encargos de Depreciação;A;6;4;311010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1029;31101070124;(-) Encargos de Amortização;A;6;4;311010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1030;31101070125;(-) Perdas em Operações de Crédito;A;6;4;311010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1031;31101070126;(-) Provisões para Férias;A;6;4;311010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1032;31101070127;(-) Provisões para 13º Salário de Empregados;A;6;4;311010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1033;31101070128;(-) Provisão para Perda de Estoque;A;6;4;311010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1034;31101070129;(-) Demais Provisões;A;6;4;311010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1035;31101070130;(-) Gratificações a Administradores;A;6;4;311010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1036;31101070131;(-) Royalties e Assistência Técnica - no PAÍS;A;6;4;311010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1037;31101070132;(-) Royalties e Assistência Técnica - no EXTERIOR;A;6;4;311010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1038;31101070133;(-) Assistência Médica, Odontológica e Farmacêutica a Empregados;A;6;4;311010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1039;31101070134;(-) Pesquisas Científicas e Tecnológicas;A;6;4;311010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1040;31101070135;(-) Bens de Pequeno Valor Unitário ou de Vida Útil de até um Ano Deduzidos como Despesa;A;6;4;311010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1041;31101070136;(-) Despesas com Energia Elétrica;A;6;4;311010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1042;31101070137;(-) Despesas com Água e Esgoto;A;6;4;311010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1043;31101070138;(-) Despesas com Telefone e Internet;A;6;4;311010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1044;31101070139;(-) Despesas com Correios e Malotes;A;6;4;311010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1045;31101070140;(-) Despesas com Seguros;A;6;4;311010701;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1046;3110109;OUTRAS DESPESAS OPERACIONAIS;S;4;4;31101;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1047;311010901;OUTRAS DESPESAS OPERACIONAIS DA ATIVIDADE RURAL;S;5;4;3110109;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1048;31101090101;(-) Variações Cambiais Passivas;A;6;4;311010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1049;31101090102;(-) Perdas Incorridas no Mercado de Renda Variável, exceto Day-Trade;A;6;4;311010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1050;31101090103;(-) Perdas em Operações Day-Trade;A;6;4;311010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1051;31101090104;(-) Despesas de Juros sobre o Capital Próprio;A;6;4;311010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1052;31101090105;(-) Despesas de Remuneração de Debêntures;A;6;4;311010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1053;31101090106;(-) Juros com Empréstimos de Pessoas Vinculadas ou Situadas em País com Tributação favorecida;A;6;4;311010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1054;31101090107;(-) Despesas Financeiras Relativas a Arrendamento;A;6;4;311010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1055;31101090108;(-) Outras Despesas Financeiras;A;6;4;311010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1056;31101090109;(-) Resultados Negativos em Participações Societárias Avaliadas pelo Método de Equivalência Patrimonial;A;6;4;311010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1057;31101090110;(-) Resultados Negativos em SCP Avaliadas pelo Método de Equivalência Patrimonial;A;6;4;311010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1058;31101090111;(-) Perdas em Operações Realizadas no Exterior;A;6;4;311010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1059;31101090112;(-) Perdas Estimadas Decorrentes de Teste de Recuperabilidade (Impairment);A;6;4;311010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1060;31101090113;(-) Despesas de Reclassificação de Ajustes de Avaliação Patrimonial ;A;6;4;311010901;                              ;1
+  ;10;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1061;31101090114;(-) Despesas de Reclassificação de Ajustes de Avaliação Patrimonial -Reflexo;A;6;4;311010901;                              ;1
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1062;31101090115;(-) Despesas Financeiras Decorrentes dos Ajustes ao Valor Presente;A;6;4;311010901;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1063;31101090116;(-) Encargos de Depreciação de Bens Objeto de Arrendamento;A;6;4;311010901;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1064;31101090117;(-) Encargos de Amortização de Mais - Valia;A;6;4;311010901;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1065;31101090118;(-) Aluguéis de Bens Imóveis- Locador  Parte Relacionada;A;6;4;311010901;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1066;31101090119;(-) Aluguéis de Bens Imóveis Locador  Parte Não Relacionada;A;6;4;311010901;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1067;31101090120;(-) Despesas com Empréstimos de Valores Mobiliários;A;6;4;311010901;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1068;31101090121;(-) Despesas com Corretagem e Emolumentos;A;6;4;311010901;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1069;31101090122;(-) Despesas  com Deságio na Cessão de Títulos;A;6;4;311010901;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1070;31101090123;(-) Despesas Incorridas em Operações de Mútuo – Parte Relacionada;A;6;4;311010901;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1071;31101090124;(-) Despesas Incorridas em Operações de Mútuo – Parte Não Relacionada;A;6;4;311010901;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1072;31101090125;(-) Despesas Incorridas  em Outros Passivos Financeiros Mensurados Pelo Custo Amortizado;A;6;4;311010901;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1073;31101090126;(-) Perda de Ajuste a Valor Justo - Instrumentos Financeiros para Negociação - Não Hedge - Valor Justo pelo Resultado;A;6;4;311010901;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1074;31101090127;(-) Perda de Ajuste a Valor Justo - Instrumentos Financeiros Disponíveis para Venda - Reclassificação de Ajustes de Avaliação Patrimonial;A;6;4;311010901;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1075;31101090128;(-) Perda de Ajuste a Valor Justo - Instrumentos Financeiros de Hedge de Valor Justo;A;6;4;311010901;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1076;31101090129;(-) Perda de Ajuste a Valor Justo - Instrumentos Financeiros de Hedge -  Reclassificação de Ajustes de Avaliação Patrimonial;A;6;4;311010901;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1077;31101090130;(-) Perda de Ajuste a Valor Justo - Item Objeto de Hedge de Valor Justo;A;6;4;311010901;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1078;31101090131;(-) Perda de Ajuste a Valor Justo - Propriedade para Investimento;A;6;4;311010901;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1079;31101090132;(-) Perda de Ajuste a Valor Justo - Ativo Biológico Consumível;A;6;4;311010901;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1080;31101090133;(-) Perda de Ajuste a Valor Justo - Ativo Biológico de Produção;A;6;4;311010901;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1081;31101090134;(-) Perda de Ajuste a Valor Justo - Ativos Não Circulantes Mantidos para Venda;A;6;4;311010901;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1082;31101090135;(-) Perda de Ajuste a Valor Justo - Subscrição de Capital com demais Bens;A;6;4;311010901;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1083;31101090136;(-) Perda de Ajuste a Valor Justo - Subscrição de Capital com Participação Societária;A;6;4;311010901;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1084;31101090137;(-) Perda de Ajuste a Valor Justo - Aquisição de Participação Societária em Estágios;A;6;4;311010901;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1085;31101090138;(-) Perda de Ajuste a Valor Justo - Decorrente de Permuta de Ativos ou Passivos;A;6;4;311010901;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1086;31101090139;(-) Perda de Ajuste a Valor Justo - Outras Operações;A;6;4;311010901;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1087;31101090199;(-) Outras Despesas Operacionais;A;6;4;311010901;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1088;3110111;OUTRAS RECEITAS, OUTRAS DESPESAS E RESULTADO DE OPERAÇÕES DESCONTINUADAS DA ATIVIDADE RURAL;S;4;4;31101;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1089;311011101;RESULTADO DE OPERAÇÕES DESCONTINUADAS (COM BENS UTILIZA-DOS EXCLUSIVAMENTE NA PRODUÇÃO RURAL, COM EXCEÇÃO DA TERRA NUA);S;5;4;3110111;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1090;31101110101;Receitas na Alienação de Bens Integrantes do Ativo Circulante ou do Ativo Realizável a Longo Prazo;A;6;4;311011101;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1091;31101110102;Receitas de Alienações de Bens do Ativo Não Circulante;A;6;4;311011101;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1092;31101110104;(-) Valor Contábil de Bens Integrantes do Ativo Circulante ou do Ativo Realizável a Longo Prazo Alienados;A;6;4;311011101;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1093;31101110105;(-) Valor Contábil dos Bens do Ativo Não Circulante Alienados;A;6;4;311011101;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1094;31105;PARTICIPAÇÕES;S;3;4;311;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1095;3110501;PARTICIPAÇÕES NOS LUCROS;S;4;4;31105;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1096;311050101;PARTICIPAÇÕES DE EMPREGADOS;S;5;4;3110501;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1097;31105010101;(-) Participações de Empregados;A;5;4;311050101;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1098;31105010102;(-) Contribuições para Assistência ou Previdência de Empregados;A;6;4;311050101;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1099;31105010199;(-) Outras Participações de Empregados;A;6;4;311050101;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1100;311050103;OUTRAS PARTICIPAÇÕES;S;5;4;3110501;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1101;31105010301;(-) Participações de Administradores e Partes Beneficiárias;A;6;4;311050103;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1102;31105010302;(-) Participações de Debêntures;A;6;4;311050103;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1103;31105010399;(-) Outras Participações;A;6;4;311050103;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1104;312;PROVISÃO PARA CSLL (ATIVIDADE RURAL);S;2;4;3;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1105;31201;PROVISÃO PARA CSLL (ATIVIDADE RURAL);S;3;4;312;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1106;3120101;PROVISÃO PARA CSLL (ATIVIDADE RURAL);S;4;4;31201;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1107;312010101;PROVISÃO PARA CSLL (ATIVIDADE RURAL);S;5;4;3120101;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1108;31201010101;Contribuição Social sobre o Lucro Líquido (Atividade Rural);A;6;4;312010101;;
+;;10;PLANO REFERENCIAL  PJ EM GERAL          ;20240101;;10;1109;31201010111;Contribuição Social sobre o Lucro Líquido - Lucros Diferidos (Atividade Rural);A;6;4;312010101;;
